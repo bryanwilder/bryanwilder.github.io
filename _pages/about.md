@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth year PhD student in the Department of Computer Science at University of Southern California, advised by Milind Tambe. I work on optimization and machine learning for social impact with an emphasis on health, homelessness, and inequality. My algorithmic research spans the full pipeline from data to decisions. Among other topics, I've explored how to integrate combinatorial optimization problems into machine learning models, how to gather data to inform interventions, and how to find decisions that are robust to uncertainty. One product of this research is an algorithmically-driven intervention for preventing HIV spread among homeless youth that is currently being piloted by LA-area homeless centers. My work draws on close collaborations with NGOs, social workers, epidemiologists, and a range of other partners. 
+I am a fourth year PhD student advised by [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe). Starting in Fall 2019, I will be a PhD student in the Harvard University School of Engineering and Applied Sciences (previously, our lab was affiliated with USC). I work on optimization and machine learning for social impact with an emphasis on health, homelessness, and inequality. My algorithmic research spans the full pipeline from data to decisions. Among other topics, I've explored how to integrate combinatorial optimization problems into machine learning models, how to gather data to inform interventions, and how to find decisions that are robust to uncertainty. One product of this research is an algorithmically-driven intervention for preventing HIV spread among homeless youth that is currently being piloted by LA-area homeless centers. My work draws on close collaborations with NGOs, social workers, epidemiologists, and a range of other partners. 
 
 I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co-organize the Computational Sustainability Online Graduate Seminar. I am supported by a National Science Foundation Graduate Research Fellowship. 
 
@@ -17,8 +17,8 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
 *   May 2019: Presented a [tutorial](https://learn2allocate.github.io/) on optimization and learning for social good at AAMAS-19 (with [John Dickerson](http://jpdickerson.com/) and [Sanmay Das](https://www.cse.wustl.edu/~sanmay/)).
 *   February 2019: I'm co-organizing a workshop at IJCAI 2019 on [AI for Social Good](https://aiforgood2019.github.io/)! Please consider submitting.
 *   September 2018: Our HIV prevention project is a finalist for the INFORMS Doing Good with Good OR award. Come see the talk at INFORMS!
-*   July 2018: Our [paper](publications/aamas_deployment.pdf) on field-ready influence maximization algorithms was nominated for the best student paper award at [AAMAS-18](http://celweb.vuse.vanderbilt.edu/aamas18/).
-*   April 2017: Our [paper on deployed influence maximization](publications/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
+*   July 2018: Our [paper](files/aamas_deployment.pdf) on field-ready influence maximization algorithms was nominated for the best student paper award at [AAMAS-18](http://celweb.vuse.vanderbilt.edu/aamas18/).
+*   April 2017: Our [paper on deployed influence maximization](files/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
 
 # Preprints 
 
@@ -50,29 +50,29 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
     *Equal contribution.
 
 *   **Bryan Wilder**, Bistra Dilkina, Milind Tambe.  
-    Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization. [[PDF]](publications/aaai_melding.pdf) [[arXiv]](https://arxiv.org/abs/1809.05504)[[code]](https://github.com/bwilder0/aaai_melding_code/)[[datasets]](files/data_decisions_benchmarks.zip).  
+    Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization. [[PDF]](files/aaai_melding.pdf) [[arXiv]](https://arxiv.org/abs/1809.05504)[[code]](https://github.com/bwilder0/aaai_melding_code/)[[datasets]](files/data_decisions_benchmarks.zip).  
     **<font color="#1A5276">AAAI-19</font>**. To appear: _AAAI Conference on Artificial Intelligence_. 2019.
 
 *   **Bryan Wilder**, Yevgeniy Vorobeychik.  
-    Defending Elections Against Malicious Spread of Misinformation. [[PDF]](publications/aaai_election_defense.pdf) [[arXiv]](https://arxiv.org/abs/1809.05521).  
+    Defending Elections Against Malicious Spread of Misinformation. [[PDF]](files/aaai_election_defense.pdf) [[arXiv]](https://arxiv.org/abs/1809.05521).  
     **<font color="#1A5276">AAAI-19</font>**. To appear: _AAAI Conference on Artificial Intelligence_. 2019.
 
 *   Mohammad Javad Azizi, Phebe Vayanos, **Bryan Wilder**, Eric Rice, Milind Tambe.  
-    Designing Fair, Efficient, and Interpretable Policies for Prioritizing Homeless Youth for Housing Resources. [[PDF]](publications/cpaior-final-designing.pdf)  
+    Designing Fair, Efficient, and Interpretable Policies for Prioritizing Homeless Youth for Housing Resources. [[PDF]](files/cpaior-final-designing.pdf)  
     **<font color="#1A5276">CPAIOR-18</font>**. _International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research_. 2018\.  
     **<font color="red">Invited to <it>Constraints</it> journal fast track for outstanding papers</font>**
 
 *   **Bryan Wilder**, Laura Onasch-Vera, Juliana Hudson, Jose Luna, Nicole Wilson, Robin Petering, Darlene Woo, Milind Tambe, Eric Rice.  
-    End-to-End Influence Maximization in the Field. [[PDF]](publications/aamas_deployment.pdf)  
+    End-to-End Influence Maximization in the Field. [[PDF]](files/aamas_deployment.pdf)  
     **<font color="#1A5276">AAMAS-18</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2018\.  
     **<font color="red">Nominated for best student paper</font>**
 
 *   **Bryan Wilder**, Han Ching Ou, Kayla de la Haye, Milind Tambe.  
-    Optimizing network structure for preventative health. [[PDF]](publications/aamas_network_optimization.pdf)  
+    Optimizing network structure for preventative health. [[PDF]](files/aamas_network_optimization.pdf)  
     **<font color="#1A5276">AAMAS-18</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2018\.
 
 *   **Bryan Wilder**, Yevgeniy Vorobeychik.  
-    Controlling Elections through Social Influence. [[arXiv]](https://arxiv.org/abs/1711.08615) [[PDF]](publications/aamas_elections.pdf) [[Supplement]](publications/supplement_elections.pdf)  
+    Controlling Elections through Social Influence. [[arXiv]](https://arxiv.org/abs/1711.08615) [[PDF]](files/aamas_elections.pdf) [[Supplement]](files/supplement_elections.pdf)  
     **<font color="#1A5276">AAMAS-18</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2018\.
 
 *   Lily Hu, **Bryan Wilder**, Amulya Yadav, Eric Rice, and Milind Tambe.  
@@ -80,7 +80,7 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
     **<font color="#1A5276">AAMAS-18</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2018\.
 
 *   **Bryan Wilder**, Sze-Chuan Suen, Milind Tambe.  
-    Preventing infectious disease in dynamic populations under uncertainty. [[PDF]](publications/aaai_tb_final.pdf) [[Supplement]](publications/supplement_tb.pdf)  
+    Preventing infectious disease in dynamic populations under uncertainty. [[PDF]](files/aaai_tb_final.pdf) [[Supplement]](files/supplement_tb.pdf)  
     **<font color="#1A5276">AAAI-18</font>**. _AAAI Conference on Artificial Intelligence_. 2018\.
 
 *   **Bryan Wilder**.  
@@ -88,20 +88,20 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
     **<font color="#1A5276">AAAI-18</font>**. _AAAI Conference on Artificial Intelligence_. 2018\.
 
 *   **Bryan Wilder**.  
-    Risk-sensitive submodular optimization. [[PDF]](publications/aaai_cvar_final.pdf) [[Supplement]](publications/supplement_cvar.pdf) [[Code]](https://github.com/bwilder0/submodular_cvar)  
+    Risk-sensitive submodular optimization. [[PDF]](files/aaai_cvar_final.pdf) [[Supplement]](files/supplement_cvar.pdf) [[Code]](https://github.com/bwilder0/submodular_cvar)  
     **<font color="#1A5276">AAAI-18</font>**. _AAAI Conference on Artificial Intelligence_. 2018\.
 
 *   **Bryan Wilder**, Nicole Immorlica, Eric Rice, Milind Tambe.  
-    Maximizing influence in an unknown social network. [[PDF]](publications/aaai_unknown_network_final.pdf) [[Supplement]](publications/supplement_unknown_network.pdf)  
+    Maximizing influence in an unknown social network. [[PDF]](files/aaai_unknown_network_final.pdf) [[Supplement]](files/supplement_unknown_network.pdf)  
     **<font color="#1A5276">AAAI-18</font>**. _AAAI Conference on Artificial Intelligence_. 2018\.
 
 *   Amulya Yadav, **Bryan Wilder**, Robin Petering, Eric Rice, Milind Tambe.  
-    Influence Maximization in the Field: The Arduous Journey from Emerging to Deployed Application. [[PDF]](publications/applicationAAMAS2017.pdf)  
+    Influence Maximization in the Field: The Arduous Journey from Emerging to Deployed Application. [[PDF]](files/applicationAAMAS2017.pdf)  
     **<font color="#1A5276">AAMAS-17</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2017\.  
     **<font color="red">Nominated for Best Paper (7 out of 288 papers)</font>**
 
 *   **Bryan Wilder**, Amulya Yadav, Nicole Immorlica, Eric Rice, Milind Tambe.  
-    Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network. [[PDF]](publications/wilder_aamas2017.pdf) [[Supplement]](publications/wilder_aamas2017_supplement.pdf)  
+    Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network. [[PDF]](files/wilder_aamas2017.pdf) [[Supplement]](files/wilder_aamas2017_supplement.pdf)  
     **<font color="#1A5276">AAMAS-17</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2017\.
 
 *   Shahrzad Gholami, **Bryan Wilder**, Matthew Brown, Dana Thomas, Nicole Sintov, Milind Tambe.  
@@ -109,7 +109,7 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
     **<font color="#1A5276">GameSec-16</font>**. _Conference on Decision and Game Theory for Security_. 2016.
 
 *   **Bryan Wilder** and Gita Sukthankar.  
-    Sparsification of Social Networks Using Random Walks. [[PDF]](publications/wilder_socialcom_2015.pdf) [[Code]](publications/socialcom_code_final.py)  
+    Sparsification of Social Networks Using Random Walks. [[PDF]](files/wilder_socialcom_2015.pdf) [[Code]](files/socialcom_code_final.py)  
     **<font color="#1A5276">SocialCom-15</font>**. _International Conference on Social Computation_. 2015\.
 
 # Journal Publications
@@ -123,11 +123,11 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
     _Royal Society Open Science_. 2017\.
 
 *   **Bryan Wilder** and Anne Kandler.  
-    Inference of Cultural Transmission Modes Based on Incomplete Information. [[PDF]](publications/wilder_human_biology_2015.pdf)  
+    Inference of Cultural Transmission Modes Based on Incomplete Information. [[PDF]](files/wilder_human_biology_2015.pdf)  
     _Human Biology_. 2015\.
 
 *   **Bryan Wilder** and Kenneth O. Stanley.  
-    Reconciling Explanations for the Evolution of Evolvability. [[PDF]](publications/wilder_adaptive_behavior_2015.pdf)  
+    Reconciling Explanations for the Evolution of Evolvability. [[PDF]](files/wilder_adaptive_behavior_2015.pdf)  
     _Adaptive Behavior_. 2015\.
 
 *   **Bryan Wilder** and Kenneth O. Stanley.  
