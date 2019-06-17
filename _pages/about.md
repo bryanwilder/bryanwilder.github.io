@@ -32,7 +32,7 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
 
 *   Po-Wei Wang, Priya L. Donti, **Bryan Wilder**, Zico Kolter.  
     SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver. [[PDF]](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf).  
-    **<font color="#1A5276">ICML-19</font>**. To appear: _International Conference on Machine Learning_. 2019.  
+    **<font color="#1A5276">ICML-19</font>**. _International Conference on Machine Learning_. 2019.  
     **<font color="red">Honorable mention for best paper at ICML 2019</font>**
 
 *   Alan Tsang*, **Bryan Wilder**\*, Eric Rice, Milind Tambe, Yair Zick.  
