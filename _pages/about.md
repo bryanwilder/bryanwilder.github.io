@@ -37,25 +37,25 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
 
 *   Alan Tsang*, **Bryan Wilder**\*, Eric Rice, Milind Tambe, Yair Zick.  
     Group-Fairness in Influence Maximization. [[arXiv]](https://arxiv.org/abs/1903.00967)[[code]](https://github.com/bwilder0/fair_influmax_code_release).  
-    **<font color="#1A5276">IJCAI-19</font>**. To appear: _International Joint Conference on Artificial Intelligence_. 2019.  
+    **<font color="#1A5276">IJCAI-19</font>**. _International Joint Conference on Artificial Intelligence_. 2019.  
     *Equal contribution.
 
 *   Jackson A. Killian, **Bryan Wilder**, Amit Sharma, Vinod Choudhary, Bistra Dilkina, Milind Tambe.  
     Learning to Prescribe Interventions for Tuberculosis Patients using Digital Adherence Data. [[arXiv]](https://arxiv.org/abs/1902.01506).  
-    **<font color="#1A5276">KDD-19</font>**. To appear: _ACM SIGKDD Conference on Knowledge Discovery and Data Mining_. 2019.  
+    **<font color="#1A5276">KDD-19</font>**. _ACM SIGKDD Conference on Knowledge Discovery and Data Mining_. 2019.  
 
 *   Matthew Staib*, **Bryan Wilder**\*, Stefanie Jegelka.  
     Distributionally Robust Submodular Maximization. [[arXiv]](https://arxiv.org/abs/1802.05249).  
-    **<font color="#1A5276">AISTATS-19</font>**. To appear: _International Conference on Artificial Intelligence and Statistics_. 2019.  
+    **<font color="#1A5276">AISTATS-19</font>**. _International Conference on Artificial Intelligence and Statistics_. 2019.  
     *Equal contribution.
 
 *   **Bryan Wilder**, Bistra Dilkina, Milind Tambe.  
     Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization. [[PDF]](files/aaai_melding.pdf) [[arXiv]](https://arxiv.org/abs/1809.05504)[[code]](https://github.com/bwilder0/aaai_melding_code/)[[datasets]](files/data_decisions_benchmarks.zip).  
-    **<font color="#1A5276">AAAI-19</font>**. To appear: _AAAI Conference on Artificial Intelligence_. 2019.
+    **<font color="#1A5276">AAAI-19</font>**. _AAAI Conference on Artificial Intelligence_. 2019.
 
 *   **Bryan Wilder**, Yevgeniy Vorobeychik.  
     Defending Elections Against Malicious Spread of Misinformation. [[PDF]](files/aaai_election_defense.pdf) [[arXiv]](https://arxiv.org/abs/1809.05521).  
-    **<font color="#1A5276">AAAI-19</font>**. To appear: _AAAI Conference on Artificial Intelligence_. 2019.
+    **<font color="#1A5276">AAAI-19</font>**. _AAAI Conference on Artificial Intelligence_. 2019.
 
 *   Mohammad Javad Azizi, Phebe Vayanos, **Bryan Wilder**, Eric Rice, Milind Tambe.  
     Designing Fair, Efficient, and Interpretable Policies for Prioritizing Homeless Youth for Housing Resources. [[PDF]](files/cpaior-final-designing.pdf)  
