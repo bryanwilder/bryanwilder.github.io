@@ -25,6 +25,9 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
 *   **Bryan Wilder**, Eric Ewing, Bistra Dilkina, Milind Tambe  
     End to End Learning and Optimization on Graphs. [[arXiv]](https://arxiv.org/abs/1905.13732).
 
+*   Aaron Ferber, **Bryan Wilder**, Bistra Dilkina, Milind Tambe  
+    MIPaaL: Mixed Integer Program as a Layer. [[arXiv]](https://arxiv.org/abs/1907.05912).
+
 *   Andrew Perrault, **Bryan Wilder**, Eric Ewing, Aditya Mate, Bistra Dilkina, Milind Tambe  
     Decision-Focused Learning of Adversary Behavior in Security Games. [[arXiv]](https://arxiv.org/abs/1903.00958).
 
