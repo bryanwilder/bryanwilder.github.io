@@ -57,7 +57,7 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
     **<font color="#1A5276">AAAI-19</font>**. _AAAI Conference on Artificial Intelligence_. 2019.
 
 *   **Bryan Wilder**, Yevgeniy Vorobeychik.  
-    Defending Elections Against Malicious Spread of Misinformation. [[PDF]](files/aaai_election_defense.pdf) [[arXiv]](https://arxiv.org/abs/1809.05521).  
+    Defending Elections Against Malicious Spread of Misinformation. [[PDF]](files/aaai_election_defense.pdf) [[arXiv]](https://arxiv.org/abs/1809.05521)[[code]](https://github.com/bwilder0/aaai_defending_elections).  
     **<font color="#1A5276">AAAI-19</font>**. _AAAI Conference on Artificial Intelligence_. 2019.
 
 *   Mohammad Javad Azizi, Phebe Vayanos, **Bryan Wilder**, Eric Rice, Milind Tambe.  
