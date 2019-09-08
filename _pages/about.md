@@ -22,9 +22,6 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
 
 # Preprints 
 
-*   **Bryan Wilder**, Eric Ewing, Bistra Dilkina, Milind Tambe  
-    End to End Learning and Optimization on Graphs. [[arXiv]](https://arxiv.org/abs/1905.13732).
-
 *   Aaron Ferber, **Bryan Wilder**, Bistra Dilkina, Milind Tambe  
     MIPaaL: Mixed Integer Program as a Layer. [[arXiv]](https://arxiv.org/abs/1907.05912).
 
@@ -32,6 +29,14 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
     Decision-Focused Learning of Adversary Behavior in Security Games. [[arXiv]](https://arxiv.org/abs/1903.00958).
 
 # Conference Publications
+
+*   **Bryan Wilder**, Eric Ewing, Bistra Dilkina, Milind Tambe  
+    End to End Learning and Optimization on Graphs. [[arXiv]](https://arxiv.org/abs/1905.13732).
+    **<font color="#1A5276">NeurIPS-19</font>**. _Advances in Neural and Information Processing Systems_. 2019.  
+
+*   Aida Rahmattalabi, Phebe Vayanos, Anthony Fulginiti, Eric Rice, **Bryan Wilder**, Amulya Yadav,  Milind Tambe.
+    Exploring Algorithmic Fairness in Robust Graph Covering Problems.
+    **<font color="#1A5276">NeurIPS-19</font>**. _Advances in Neural and Information Processing Systems_. 2019.  
 
 *   Po-Wei Wang, Priya L. Donti, **Bryan Wilder**, Zico Kolter.  
     SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver. [[PDF]](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf).  
