@@ -30,12 +30,12 @@ I coordinate the MD4SG Working Group on Global Perspectives on Inequality and co
 
 # Conference Publications
 
-*   **Bryan Wilder**, Eric Ewing, Bistra Dilkina, Milind Tambe  
-    End to End Learning and Optimization on Graphs. [[arXiv]](https://arxiv.org/abs/1905.13732).
+*   **Bryan Wilder**, Eric Ewing, Bistra Dilkina, Milind Tambe.  
+    End to End Learning and Optimization on Graphs. [[arXiv]](https://arxiv.org/abs/1905.13732).  
     **<font color="#1A5276">NeurIPS-19</font>**. _Advances in Neural and Information Processing Systems_. 2019.  
 
-*   Aida Rahmattalabi, Phebe Vayanos, Anthony Fulginiti, Eric Rice, **Bryan Wilder**, Amulya Yadav,  Milind Tambe.
-    Exploring Algorithmic Fairness in Robust Graph Covering Problems.
+*   Aida Rahmattalabi, Phebe Vayanos, Anthony Fulginiti, Eric Rice, **Bryan Wilder**, Amulya Yadav,  Milind Tambe.  
+    Exploring Algorithmic Fairness in Robust Graph Covering Problems.  
     **<font color="#1A5276">NeurIPS-19</font>**. _Advances in Neural and Information Processing Systems_. 2019.  
 
 *   Po-Wei Wang, Priya L. Donti, **Bryan Wilder**, Zico Kolter.  
