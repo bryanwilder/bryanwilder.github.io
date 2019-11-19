@@ -121,8 +121,8 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 # Journal Publications
 
 *   Eric Rice, Robin Petering, Amanda Yoshioka-Maxwell, Jaih Craddock, Darlene Woo, Nicole Wilson, Laura Onasch-Vera, **Bryan Wilder** Amulya Yadav, Milind Tambe.  
-    Piloting the Use of Artificial Intelligence to Enhance HIV Prevention Interventions for Youth Experiencing Homelessness.  
-    _Journal of the Society for Social Work and Research_. Forthcoming.
+    Piloting the Use of Artificial Intelligence to Enhance HIV Prevention Interventions for Youth Experiencing Homelessness. [[Link]](https://www.journals.uchicago.edu/doi/abs/10.1086/701439)  
+   _Journal of the Society for Social Work and Research_. 2018. 
 
 *   Anne Kandler, **Bryan Wilder**, Laura Fortunato.  
     Inferring individual-level processes from population-level patterns in cultural evolution. [[Full text]](http://rsos.royalsocietypublishing.org/content/4/9/170949) [[Code]](https://github.com/bwilder0/cultural-evolution)  
