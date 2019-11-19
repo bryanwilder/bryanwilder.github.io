@@ -18,15 +18,15 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 *   July 2018: Our [paper](files/aamas_deployment.pdf) on field-ready influence maximization algorithms was nominated for the best student paper award at [AAMAS-18](http://celweb.vuse.vanderbilt.edu/aamas18/).
 *   April 2017: Our [paper on deployed influence maximization](files/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
 
-# Preprints 
+# Conference Publications
 
 *   Aaron Ferber, **Bryan Wilder**, Bistra Dilkina, Milind Tambe  
-    MIPaaL: Mixed Integer Program as a Layer. [[arXiv]](https://arxiv.org/abs/1907.05912).
+    MIPaaL: Mixed Integer Program as a Layer. [[arXiv]](https://arxiv.org/abs/1907.05912).  
+    **<font color="#1A5276">AAAI-20</font>**. _AAAI Conference on Artificial Intelligence_. 2020.  
 
 *   Andrew Perrault, **Bryan Wilder**, Eric Ewing, Aditya Mate, Bistra Dilkina, Milind Tambe  
-    Decision-Focused Learning of Adversary Behavior in Security Games. [[arXiv]](https://arxiv.org/abs/1903.00958).
-
-# Conference Publications
+    Decision-Focused Learning of Adversary Behavior in Security Games. [[arXiv]](https://arxiv.org/abs/1903.00958).  
+    **<font color="#1A5276">AAAI-20</font>**. _AAAI Conference on Artificial Intelligence_. 2020.  
 
 *   **Bryan Wilder**, Eric Ewing, Bistra Dilkina, Milind Tambe.  
     End to End Learning and Optimization on Graphs. [[arXiv]](https://arxiv.org/abs/1905.13732)[[code]](https://github.com/bwilder0/clusternet)[[slides]](files/graphopt_neurips_slides.pdf).  
