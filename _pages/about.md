@@ -11,6 +11,7 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 
 # News
 
+*   December 2019: talk at [MIT IDSS](https://idss.mit.edu/) on optimizing social network interventions.
 *   June 2019: Our [paper on integrating SAT solving and deep learning](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf) received an honorable mention for best paper at ICML 2019!
 *   May 2019: Presented a [tutorial](https://learn2allocate.github.io/) on optimization and learning for social good at AAMAS-19 (with [John Dickerson](http://jpdickerson.com/) and [Sanmay Das](https://www.cse.wustl.edu/~sanmay/)).
 *   February 2019: I'm co-organizing a workshop at IJCAI 2019 on [AI for Social Good](https://aiforgood2019.github.io/)! Please consider submitting.
