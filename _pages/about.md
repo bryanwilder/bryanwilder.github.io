@@ -11,7 +11,7 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 
 # News
 
-*   March 31 2020: Our [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) studying age distribution and family structure in COVID-19 transmission for Hubei and Lombardy is up. [Code](https://github.com/bwilder0/COVID19-Demography) is also available.
+*   **March 31 2020: Our [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) studying age distribution and family structure in COVID-19 transmission for Hubei and Lombardy is up. [Code](https://github.com/bwilder0/COVID19-Demography) is also available.**
 *   December 2019: Talk at [MIT IDSS](https://idss.mit.edu/) on optimizing social network interventions.
 *   August 2019: Invited to speak at the [KDD 2019 Data Science in India](https://ikdd.acm.org/kdd2019/) event.
 *   June 2019: Our [paper on integrating SAT solving and deep learning](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf) received an honorable mention for best paper at ICML 2019!
