@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe). I work on optimization and machine learning for social impact. My [recent](https://arxiv.org/abs/1905.13732) [technical](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf) [work](files/aaai_melding.pdf) focuses on integrating algorithms for discrete optimization into deep learning models, enabling end-to-end training of systems that combine prediction and decision making. I've also worked on optimization and active learning for interventions that use social networks to disseminate information. My ultimate goal is to enable improved decision making under uncertainty, particularly for interventions that serve vulnerable populations. Applications include a recent project on [tuberculosis treatment in India](https://arxiv.org/abs/1902.01506), as well as a longer-running project on [HIV prevention for homeless youth](files/aamas_deployment.pdf). Our algorithmically-driven HIV intervention is currently being piloted by Los Angeles-area homeless centers, with preliminary results showing large improvement compared to status quo techniques. I am supported by a National Science Foundation Graduate Research Fellowship. During summer 2019, I interned at Microsoft Research Redmond, where I was fortunate to be mentored by [Eric Horvitz](http://erichorvitz.com/) and [Ece Kamar](https://www.ecekamar.com/).
+I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe). I work on optimization and machine learning for social impact, with a focus on public health. My [recent](https://arxiv.org/abs/1905.13732) [technical](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf) [work](files/aaai_melding.pdf) focuses on integrating algorithms for discrete optimization into deep learning models, enabling end-to-end training of systems that combine prediction and decision making. I've also worked on optimization and active learning for interventions that use social networks to disseminate information. My ultimate goal is to enable improved decision making under uncertainty, particularly for interventions that serve vulnerable populations. Applications include a recent project on [tuberculosis treatment in India](https://arxiv.org/abs/1902.01506), as well as a longer-running project on [HIV prevention for homeless youth](files/aamas_deployment.pdf). Our algorithmically-driven HIV intervention is currently being piloted by Los Angeles-area homeless centers, with preliminary results showing large improvement compared to status quo techniques. I am supported by a National Science Foundation Graduate Research Fellowship. During summer 2019, I interned at Microsoft Research Redmond, where I was fortunate to be mentored by [Eric Horvitz](http://erichorvitz.com/) and [Ece Kamar](https://www.ecekamar.com/).
 
 # News
 
+*   March 31 2020: Our [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) studying age distribution and family structure in COVID-19 transmission for Hubei and Lombardy is up. [Code](https://github.com/bwilder0/COVID19-Demography) is also available.
 *   December 2019: Talk at [MIT IDSS](https://idss.mit.edu/) on optimizing social network interventions.
 *   August 2019: Invited to speak at the [KDD 2019 Data Science in India](https://ikdd.acm.org/kdd2019/) event.
 *   June 2019: Our [paper on integrating SAT solving and deep learning](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf) received an honorable mention for best paper at ICML 2019!
@@ -19,6 +20,12 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 *   September 2018: Our HIV prevention project is a finalist for the INFORMS Doing Good with Good OR award. Come see the talk at INFORMS!
 *   July 2018: Our [paper](files/aamas_deployment.pdf) on field-ready influence maximization algorithms was nominated for the best student paper award at [AAMAS-18](http://celweb.vuse.vanderbilt.edu/aamas18/).
 *   April 2017: Our [paper on deployed influence maximization](files/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
+
+# Preprints 
+
+*   **Bryan Wilder**, Marie Charpignon, Jackson A. Killian, Han-Ching Ou, Aditya Mate, Shahin Jabbari, Andrew Perrault, Angel Desai, Milind Tambe, Maimuna S. Majumder.   
+    The Role of Age Distribution and Family Structure on COVID-19 Dynamics: A Preliminary Modeling Assessment for Hubei and Lombardy.  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) [[Code]](https://github.com/bwilder0/COVID19-Demography)     
+    March 31, 2020
 
 # Conference Publications
 
