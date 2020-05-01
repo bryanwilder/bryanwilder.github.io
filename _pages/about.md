@@ -29,6 +29,11 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 
 # Conference Publications
 
+*   **Bryan Wilder**, Eric Horvitz, Ece Kamar.  
+    Learning to Complement Humans. [[PDF]](files/ijcai_complementarity.pdf).  
+    **<font color="#1A5276">IJCAI-20</font>**. _International Joint Conference on Artificial Intelligence_. 2020.  
+
+
 *   Harshavardhan Kamarthi, Priyesh Vijayan, **Bryan Wilder**, Balaraman Ravindran, Milind Tambe  
     Influence maximization in unknown social networks: Learning policies for effective graph sampling. [[arXiv]](https://arxiv.org/abs/1907.11625).  
     **<font color="#1A5276">AAMAS-20</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2020.  
