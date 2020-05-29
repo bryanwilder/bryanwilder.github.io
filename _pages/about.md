@@ -11,6 +11,7 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 
 # News
 
+*   **May 29, 2020: Updated [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) and [code](https://github.com/bwilder0/covid_abm_release) for our COVID-19 modeling project.**
 *   **March 31 2020: Our [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) studying age distribution and family structure in COVID-19 transmission for Hubei and Lombardy is up. [Code](https://github.com/bwilder0/COVID19-Demography) is also available.**
 *   December 2019: Talk at [MIT IDSS](https://idss.mit.edu/) on optimizing social network interventions.
 *   August 2019: Invited to speak at the [KDD 2019 Data Science in India](https://ikdd.acm.org/kdd2019/) event.
@@ -24,8 +25,8 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 # Preprints 
 
 *   **Bryan Wilder**, Marie Charpignon, Jackson A. Killian, Han-Ching Ou, Aditya Mate, Shahin Jabbari, Andrew Perrault, Angel Desai, Milind Tambe, Maimuna S. Majumder.   
-    The Role of Age Distribution and Family Structure on COVID-19 Dynamics: A Preliminary Modeling Assessment for Hubei and Lombardy.  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) [[Code]](https://github.com/bwilder0/COVID19-Demography)     
-    March 31, 2020
+    Modeling between-population variation in COVID-19 dynamics in Hubei, Lombardy, and New York City.  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) [[Code]](https://github.com/bwilder0/covid_abm_release)     
+    May 29, 2020
 
 # Conference Publications
 
