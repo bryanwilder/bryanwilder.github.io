@@ -38,6 +38,7 @@ I am a fifth year PhD student at Harvard University, advised by [Milind Tambe](h
 *   Harshavardhan Kamarthi, Priyesh Vijayan, **Bryan Wilder**, Balaraman Ravindran, Milind Tambe  
     Influence maximization in unknown social networks: Learning policies for effective graph sampling. [[arXiv]](https://arxiv.org/abs/1907.11625).  
     **<font color="#1A5276">AAMAS-20</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2020.  
+    **<font color="red">Nominated for best paper at AAMAS 2020</font>**
 
 *   Aaron Ferber, **Bryan Wilder**, Bistra Dilkina, Milind Tambe  
     MIPaaL: Mixed Integer Program as a Layer. [[arXiv]](https://arxiv.org/abs/1907.05912).  
