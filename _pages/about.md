@@ -24,6 +24,9 @@ Covered in: [[Business Insider]](https://www.businessinsider.fr/us/scientists-st
 *   April 2017: Our [paper on deployed influence maximization](files/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
 
 # Preprints 
+*   Daniel B. Larremore, **Bryan Wilder**, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
+    Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[MedrXiv]](https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v2).  
+    June 27, 2020
 
 *   **Bryan Wilder**, Marie Charpignon, Jackson A. Killian, Han-Ching Ou, Aditya Mate, Shahin Jabbari, Andrew Perrault, Angel Desai, Milind Tambe, Maimuna S. Majumder.   
     Modeling between-population variation in COVID-19 dynamics in Hubei, Lombardy, and New York City.  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564800) [[Code]](https://github.com/bwilder0/covid_abm_release)     
