@@ -24,13 +24,18 @@ Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delay
 *   April 2017: Our [paper on deployed influence maximization](files/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
 
 # Preprints 
+*   **Bryan Wilder**, Michael J. Mina, Milind Tambe.  
+    Tracking disease outbreaks from sparse data with Bayesian inference. [[MedrXiv]](https://arxiv.org/abs/2009.05863)
+
 *   Daniel B. Larremore, **Bryan Wilder**, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
     Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[MedrXiv]](https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v2).  
-    June 27, 2020
-
 
 # Conference Publications
-
+*   Kai Wang, **Bryan Wilder**, Andrew Perrault, Milind Tambe.  
+    Automatically Learning Compact Quality-aware Surrogates for Optimization Problems. [[arXiv]](https://arxiv.org/abs/2006.10815)    
+    **<font color="#1A5276">NeurIPS-20</font>**. _Advances in Neural and Information Processing Systems_. 2020.  
+    **<font color="red">Spotlight presentation</font>**
+    
 *   **Bryan Wilder**, Eric Horvitz, Ece Kamar.  
     Learning to Complement Humans. [[PDF]](files/ijcai_complementarity.pdf).  
     **<font color="#1A5276">IJCAI-20</font>**. _International Joint Conference on Artificial Intelligence_. 2020.  
