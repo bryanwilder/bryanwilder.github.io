@@ -25,7 +25,7 @@ Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delay
 
 # Preprints 
 *   **Bryan Wilder**, Michael J. Mina, Milind Tambe.  
-    Tracking disease outbreaks from sparse data with Bayesian inference. [[MedrXiv]](https://arxiv.org/abs/2009.05863)
+    Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863)
 
 *   Daniel B. Larremore, **Bryan Wilder**, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
     Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[MedrXiv]](https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v2).  
