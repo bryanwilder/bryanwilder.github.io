@@ -10,10 +10,10 @@ redirect_from:
 I am a final-year PhD student at Harvard University, advised by [Milind Tambe](https://www.seas.harvard.edu/directory/mtambe). My research falls at the intersection of optimization, social networks, and machine learning. I design [algorithmic](files/aaai_unknown_network_final.pdf) and [data](files/aaai_melding.pdf)-[driven](https://arxiv.org/abs/1905.13732) methods to improve decision making under uncertainty and deploy these techniques for social impact, with a focus on applications in public health. I am particularly interested in interventions for marginalized populations. For example, to improve social network interventions for HIV prevention among homeless youth, I developed a combination of [robust optimization](https://arxiv.org/abs/1710.00996) techniques and algorithms for [sampling social networks](files/aaai_unknown_network_final.pdf). Our intervention resulted in a [field trial](https://arxiv.org/pdf/2009.09559.pdf) showing significantly improved adoption of protective behaviors. Other application areas include [COVID-19](https://www.pnas.org/content/early/2020/09/23/2010651117) and [tuberculosis treatment in India](https://arxiv.org/abs/1902.01506). I am supported currently by a Siebel Scholarship and was previously supported by a National Science Foundation Graduate Research Fellowship. During summer 2019, I interned at Microsoft Research Redmond, where I was fortunate to be mentored by [Eric Horvitz](http://erichorvitz.com/) and [Ece Kamar](https://www.ecekamar.com/).
 
 # News
+*   November 2020: Paper on modeling optimal testing strategies for COVID-19 out in [Science Advances](https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393.1).  
+Covered in: [[New York Times]](https://www.nytimes.com/2020/08/06/health/rapid-Covid-tests.html) [[Washington Post]](https://www.washingtonpost.com/health/long-delays-in-getting-test-results-hobble-coronavirus-response/2020/07/12/d32f7fa8-c1fe-11ea-b4f6-cb39cd8940fb_story.html) [[The Atlantic]](https://www.theatlantic.com/health/archive/2020/08/how-to-test-every-american-for-covid-19-every-day/615217/) [[Nature News]](https://www.nature.com/articles/d41586-020-00502-w) [[The Hill]](https://thehill.com/changing-america/well-being/506193-test-frequency-more-important-than-sensitivity-for-coronavirus) [[Fast Company]](https://www.fastcompany.com/90522589/this-covid-19-super-antibody-test-could-provide-new-insights-into-immunity) [[Time]](https://time.com/5873444/radically-rethink-covid-19-testing-approach/) [[Yahoo Sports]](https://sports.yahoo.com/sports-amid-coronavirus-are-league-testing-protocols-impacting-the-u-ss-pandemic-fight-145213814.html)
 *   September 2020: Paper on inferring between-population differences in COVID-19 dynamics out in [PNAS](https://www.pnas.org/content/early/2020/09/23/2010651117).
 *   August 2020: Best student paper award from [MD4SG '20](http://md4sg.com/workshop/MD4SG20/index.html) for [work on influence maximization for HIV prevention](https://arxiv.org/pdf/2009.09559.pdf). 
-*   June 2020: [Preprint](https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v2) on modeling optimal testing strategies for COVID-19.  
-Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delays-in-getting-test-results-hobble-coronavirus-response/2020/07/12/d32f7fa8-c1fe-11ea-b4f6-cb39cd8940fb_story.html) [[New York Times]](https://www.nytimes.com/2020/08/06/health/rapid-Covid-tests.html) [[Nature News]](https://www.nature.com/articles/d41586-020-00502-w) [[The Hill]](https://thehill.com/changing-america/well-being/506193-test-frequency-more-important-than-sensitivity-for-coronavirus) [[Fast Company]](https://www.fastcompany.com/90522589/this-covid-19-super-antibody-test-could-provide-new-insights-into-immunity) [[Time]](https://time.com/5873444/radically-rethink-covid-19-testing-approach/) [[Yahoo Sports]](https://sports.yahoo.com/sports-amid-coronavirus-are-league-testing-protocols-impacting-the-u-ss-pandemic-fight-145213814.html)
 *   December 2019: Talk at [MIT IDSS](https://idss.mit.edu/) on optimizing social network interventions.
 *   August 2019: Invited to speak at the [KDD 2019 Data Science in India](https://ikdd.acm.org/kdd2019/) event.
 *   June 2019: Our [paper on integrating SAT solving and deep learning](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf) received an honorable mention for best paper at ICML 2019!
@@ -27,10 +27,19 @@ Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delay
 *   **Bryan Wilder**, Michael J. Mina, Milind Tambe.  
     Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863)
 
-*   Daniel B. Larremore, **Bryan Wilder**, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
-    Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[MedrXiv]](https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v2).  
+*   Bryan Wilder, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering Chyna Hill, Amulya Yadav, Eric Rice, Milind Tambe. Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness. [[arXiv]](https://arxiv.org/abs/2009.09559)
 
-# Conference Publications
+# Publications
+
+*   Daniel B. Larremore, **Bryan Wilder**, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
+    Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[Link]](https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393.1)   
+   _Science Advances_. 2020.
+
+*   **Bryan Wilder**, Marie Charpignon, Jackson A. Killian, Han-Ching Ou, Aditya Mate, Shahin Jabbari, Andrew Perrault, Angel Desai, Milind Tambe, Maimuna S. Majumder.  
+Modeling between-population variation in COVID-19 dynamics in Hubei, Lombardy, and New York City. [[Link]](https://www.pnas.org/content/early/2020/09/23/2010651117)  
+_Proceedings of the National Academy of Sciences_. 2020.
+
+
 *   Kai Wang, **Bryan Wilder**, Andrew Perrault, Milind Tambe.  
     Automatically Learning Compact Quality-aware Surrogates for Optimization Problems. [[arXiv]](https://arxiv.org/abs/2006.10815)    
     **<font color="#1A5276">NeurIPS-20</font>**. _Advances in Neural and Information Processing Systems_. 2020.  
@@ -40,11 +49,15 @@ Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delay
     Learning to Complement Humans. [[PDF]](files/ijcai_complementarity.pdf).  
     **<font color="#1A5276">IJCAI-20</font>**. _International Joint Conference on Artificial Intelligence_. 2020.  
 
-
 *   Harshavardhan Kamarthi, Priyesh Vijayan, **Bryan Wilder**, Balaraman Ravindran, Milind Tambe  
     Influence maximization in unknown social networks: Learning policies for effective graph sampling. [[arXiv]](https://arxiv.org/abs/1907.11625).  
     **<font color="#1A5276">AAMAS-20</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2020.  
     **<font color="red">Nominated for best paper at AAMAS 2020</font>**
+    
+*   **Bryan Wilder**, Sze-chuan Suen, Milind Tambe.  
+Allocating outreach resources for disease control in a dynamic population with information spread. [[Link]](https://www.pnas.org/content/early/2020/09/23/2010651117)  
+_IISE Transactions on Healthcare Systems Engineering_. 2020.  
+Supercedes the [AAAI-18 paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16714).
 
 *   Aaron Ferber, **Bryan Wilder**, Bistra Dilkina, Milind Tambe  
     MIPaaL: Mixed Integer Program as a Layer. [[arXiv]](https://arxiv.org/abs/1907.05912).  
@@ -93,6 +106,10 @@ Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delay
     Designing Fair, Efficient, and Interpretable Policies for Prioritizing Homeless Youth for Housing Resources. [[PDF]](files/cpaior-final-designing.pdf)  
     **<font color="#1A5276">CPAIOR-18</font>**. _International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research_. 2018\.  
     **<font color="red">Invited to <it>Constraints</it> journal fast track for outstanding papers</font>**
+    
+*   Eric Rice, Robin Petering, Amanda Yoshioka-Maxwell, Jaih Craddock, Darlene Woo, Nicole Wilson, Laura Onasch-Vera, **Bryan Wilder** Amulya Yadav, Milind Tambe.  
+    Piloting the Use of Artificial Intelligence to Enhance HIV Prevention Interventions for Youth Experiencing Homelessness. [[Link]](https://www.journals.uchicago.edu/doi/abs/10.1086/701439)  
+   _Journal of the Society for Social Work and Research_. 2018. 
 
 *   **Bryan Wilder**, Laura Onasch-Vera, Juliana Hudson, Jose Luna, Nicole Wilson, Robin Petering, Darlene Woo, Milind Tambe, Eric Rice.  
     End-to-End Influence Maximization in the Field. [[PDF]](files/aamas_deployment.pdf)  
@@ -135,7 +152,11 @@ Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delay
 *   **Bryan Wilder**, Amulya Yadav, Nicole Immorlica, Eric Rice, Milind Tambe.  
     Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network. [[PDF]](files/wilder_aamas2017.pdf) [[Supplement]](files/wilder_aamas2017_supplement.pdf)  
     **<font color="#1A5276">AAMAS-17</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2017\.
-
+    
+*   Anne Kandler, **Bryan Wilder**, Laura Fortunato.  
+    Inferring individual-level processes from population-level patterns in cultural evolution. [[Full text]](http://rsos.royalsocietypublishing.org/content/4/9/170949) [[Code]](https://github.com/bwilder0/cultural-evolution)  
+    _Royal Society Open Science_. 2017\.
+    
 *   Shahrzad Gholami, **Bryan Wilder**, Matthew Brown, Dana Thomas, Nicole Sintov, Milind Tambe.  
     Divide to Defend: Collusive Security Games.  
     **<font color="#1A5276">GameSec-16</font>**. _Conference on Decision and Game Theory for Security_. 2016.
@@ -143,20 +164,6 @@ Covered in: [[Washington Post]](https://www.washingtonpost.com/health/long-delay
 *   **Bryan Wilder** and Gita Sukthankar.  
     Sparsification of Social Networks Using Random Walks. [[PDF]](files/wilder_socialcom_2015.pdf) [[Code]](files/socialcom_code_final.py)  
     **<font color="#1A5276">SocialCom-15</font>**. _International Conference on Social Computation_. 2015\.
-
-# Journal Publications
-
-*   **Bryan Wilder**, Marie Charpignon, Jackson A. Killian, Han-Ching Ou, Aditya Mate, Shahin Jabbari, Andrew Perrault, Angel Desai, Milind Tambe, Maimuna S. Majumder.  
-Modeling between-population variation in COVID-19 dynamics in Hubei, Lombardy, and New York City. [[Link]](https://www.pnas.org/content/early/2020/09/23/2010651117)  
-_Proceedings of the National Academy of Sciences_. 2020.
-
-*   Eric Rice, Robin Petering, Amanda Yoshioka-Maxwell, Jaih Craddock, Darlene Woo, Nicole Wilson, Laura Onasch-Vera, **Bryan Wilder** Amulya Yadav, Milind Tambe.  
-    Piloting the Use of Artificial Intelligence to Enhance HIV Prevention Interventions for Youth Experiencing Homelessness. [[Link]](https://www.journals.uchicago.edu/doi/abs/10.1086/701439)  
-   _Journal of the Society for Social Work and Research_. 2018. 
-
-*   Anne Kandler, **Bryan Wilder**, Laura Fortunato.  
-    Inferring individual-level processes from population-level patterns in cultural evolution. [[Full text]](http://rsos.royalsocietypublishing.org/content/4/9/170949) [[Code]](https://github.com/bwilder0/cultural-evolution)  
-    _Royal Society Open Science_. 2017\.
 
 *   **Bryan Wilder** and Anne Kandler.  
     Inference of Cultural Transmission Modes Based on Incomplete Information. [[PDF]](files/wilder_human_biology_2015.pdf)  
