@@ -27,7 +27,8 @@ Covered in: [[New York Times]](https://www.nytimes.com/2020/08/06/health/rapid-C
 *   **Bryan Wilder**, Michael J. Mina, Milind Tambe.  
     Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863)
 
-*   Bryan Wilder, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering Chyna Hill, Amulya Yadav, Eric Rice, Milind Tambe. Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness. [[arXiv]](https://arxiv.org/abs/2009.09559)
+*   **Bryan Wilder**, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering Chyna Hill, Amulya Yadav, Eric Rice, Milind Tambe.  
+    Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness. [[arXiv]](https://arxiv.org/abs/2009.09559)
 
 # Publications
 
