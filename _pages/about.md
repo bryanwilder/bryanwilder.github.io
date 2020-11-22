@@ -55,7 +55,7 @@ _Proceedings of the National Academy of Sciences_. 2020.
     **<font color="red">Nominated for best paper at AAMAS 2020</font>**
     
 *   **Bryan Wilder**, Sze-chuan Suen, Milind Tambe.  
-Allocating outreach resources for disease control in a dynamic population with information spread. [[Link]](https://www.pnas.org/content/early/2020/09/23/2010651117)  
+Allocating outreach resources for disease control in a dynamic population with information spread. [[Link]](https://www.tandfonline.com/doi/abs/10.1080/24725854.2020.1798037?journalCode=uiie21)  
 _IISE Transactions on Healthcare Systems Engineering_. 2020.  
 Supercedes the [AAAI-18 paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16714).
 
