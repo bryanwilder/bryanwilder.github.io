@@ -24,14 +24,16 @@ Covered in: [[New York Times]](https://www.nytimes.com/2020/08/06/health/rapid-C
 *   July 2018: Our [paper](files/aamas_deployment.pdf) on field-ready influence maximization algorithms was nominated for the best student paper award at [AAMAS-18](http://celweb.vuse.vanderbilt.edu/aamas18/).
 *   April 2017: Our [paper on deployed influence maximization](files/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
 
-# Preprints 
-*   **Bryan Wilder**, Michael J. Mina, Milind Tambe.  
-    Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863)
-
-*   **Bryan Wilder**, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering Chyna Hill, Amulya Yadav, Eric Rice, Milind Tambe.  
-    Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness. [[arXiv]](https://arxiv.org/abs/2009.09559)
 
 # Publications
+
+*   **Bryan Wilder**, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering Chyna Hill, Amulya Yadav, Eric Rice, Milind Tambe.  
+    Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness. [[arXiv]](https://arxiv.org/abs/2009.09559)    
+    **<font color="#1A5276">AAAI-21</font>**. _AAAI Conference on Artificial Intelligence_. 2021.  
+    
+*   **Bryan Wilder**, Michael J. Mina, Milind Tambe.  
+    Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863)    
+    **<font color="#1A5276">AAAI-21</font>**. _AAAI Conference on Artificial Intelligence_. 2021.  
 
 *   Daniel B. Larremore, **Bryan Wilder**, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
     Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[Link]](https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393.1)   
