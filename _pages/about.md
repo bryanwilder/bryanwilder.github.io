@@ -33,7 +33,7 @@ Covered in: [[New York Times]](https://www.nytimes.com/2020/08/06/health/rapid-C
     **<font color="#1A5276">AAAI-21</font>**. _AAAI Conference on Artificial Intelligence_. 2021.  
     
 *   **Bryan Wilder**, Michael J. Mina, Milind Tambe.  
-    Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863)    
+    Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863) [[code]](files/gprt_code_release.pdf)    
     **<font color="#1A5276">AAAI-21</font>**. _AAAI Conference on Artificial Intelligence_. 2021.  
 
 *   Daniel B. Larremore, **Bryan Wilder**, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
