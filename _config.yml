@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bryan Wilder"
   avatar           : "bryan.jpg"
-  bio              : "PhD Student, Harvard University<br>bwilder@g.harvard.edu"
-  institution      : "Harvard University"
-  logo             : "harvard.png"
+  bio              : "bwilder@g.harvard.edu"
+  institution      : "Carnegie Mellon University & Harvard School of Public Health"
+  logo             : 
   location         : 
   employer         :
   pubmed           : 
