@@ -124,7 +124,7 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.logo }}" alt="{{ author.institution }}">
     {% else %}
-    	<img src="{{ author.logo | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.institution }}">
+    	<img src="{{ author.logo | prepend: "/images/" | prepend: base_path }}" alt="{{ author.institution }}">
     {% endif %}
   </div>
 </div>
