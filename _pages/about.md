@@ -12,20 +12,13 @@ I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) at Harvard S
 **I'm looking for PhD students at CMU next year!** If you're interested in AI, public health, and equity, please consider applying to the Machine Learning Department. Topics span ML/stats/optimization/algorithms methods through community-focused work with nonprofits. 
 
 # News
+*   January 2022: My dissertation received the IFAAMAS Victor Lesser Distinguished Dissertation Award.
 *   January 2021: Selected as one of 10 spotlight [Rising Stars in Data Science](https://cdac.uchicago.edu/events/risingstars2021) by the University of Chicago.
 *   November 2020: Paper modeling rapid testing for COVID-19 out in [Science Advances](https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393.1).  
 Covered in: [[New York Times]](https://www.nytimes.com/2020/08/06/health/rapid-Covid-tests.html) [[Washington Post]](https://www.washingtonpost.com/health/long-delays-in-getting-test-results-hobble-coronavirus-response/2020/07/12/d32f7fa8-c1fe-11ea-b4f6-cb39cd8940fb_story.html) [[The Atlantic]](https://www.theatlantic.com/health/archive/2020/08/how-to-test-every-american-for-covid-19-every-day/615217/) [[Nature News]](https://www.nature.com/articles/d41586-020-00502-w) [[The Hill]](https://thehill.com/changing-america/well-being/506193-test-frequency-more-important-than-sensitivity-for-coronavirus) [[Fast Company]](https://www.fastcompany.com/90522589/this-covid-19-super-antibody-test-could-provide-new-insights-into-immunity) [[Time]](https://time.com/5873444/radically-rethink-covid-19-testing-approach/) [[Yahoo Sports]](https://sports.yahoo.com/sports-amid-coronavirus-are-league-testing-protocols-impacting-the-u-ss-pandemic-fight-145213814.html)  
 [Interview with Dr. Fauci about the paper (Yahoo News)](https://news.yahoo.com/rapid-testing-could-drive-the-epidemic-toward-extinction-164845892.html)
 *   September 2020: Paper on inferring between-population differences in COVID-19 dynamics out in [PNAS](https://www.pnas.org/content/early/2020/09/23/2010651117).
 *   August 2020: Best student paper award from [MD4SG '20](http://md4sg.com/workshop/MD4SG20/index.html) for [work on influence maximization for HIV prevention](https://arxiv.org/pdf/2009.09559.pdf). 
-*   December 2019: Talk at [MIT IDSS](https://idss.mit.edu/) on optimizing social network interventions.
-*   August 2019: Invited to speak at the [KDD 2019 Data Science in India](https://ikdd.acm.org/kdd2019/) event.
-*   June 2019: Our [paper on integrating SAT solving and deep learning](http://proceedings.mlr.press/v97/wang19e/wang19e.pdf) received an honorable mention for best paper at ICML 2019!
-*   May 2019: Presented a [tutorial](https://learn2allocate.github.io/) on optimization and learning for social good at AAMAS-19 (with [John Dickerson](http://jpdickerson.com/) and [Sanmay Das](https://www.cse.wustl.edu/~sanmay/)).
-*   February 2019: I'm co-organizing a workshop at IJCAI 2019 on [AI for Social Good](https://aiforgood2019.github.io/)! Please consider submitting.
-*   September 2018: Our HIV prevention project is a finalist for the INFORMS Doing Good with Good OR award. Come see the talk at INFORMS!
-*   July 2018: Our [paper](files/aamas_deployment.pdf) on field-ready influence maximization algorithms was nominated for the best student paper award at [AAMAS-18](http://celweb.vuse.vanderbilt.edu/aamas18/).
-*   April 2017: Our [paper on deployed influence maximization](files/applicationAAMAS2017.pdf) was nominated for the best paper award at [AAMAS-17](www.aamas2017.org).
 
 
 # Publications
