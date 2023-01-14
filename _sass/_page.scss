@@ -14,7 +14,6 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
-
 }
 
 .page {
@@ -32,7 +31,7 @@
     .page__share {
       @include full();
     }
-  }  
+  }
 }
 
 .page__title {
