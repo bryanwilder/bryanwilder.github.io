@@ -104,7 +104,7 @@ Supercedes the [AAAI-18 paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/pa
     **<font color="red">Nominated for best student paper</font>**
 
 *   Bryan Wilder, Han Ching Ou, Kayla de la Haye, Milind Tambe.  
-    Optimizing network structure for preventative health. [[PDF]](files/aamas_network_optimization.pdf)  
+    Optimizing network structure for preventative health. [[PDF]](/files/aamas_network_optimization.pdf)  
     **<font color="#1A5276">AAMAS-18</font>**. _International Conference on Autonomous Agents and Multiagent Systems_. 2018\.
 
 *   Bryan Wilder, Yevgeniy Vorobeychik.  
