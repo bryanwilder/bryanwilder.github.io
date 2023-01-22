@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*   Michael Poli, Bryan Wilder, Eric Horvitz.  
+    Ideal Abstractions for Decision-Focused Learning.    
+    **<font color="#1A5276">AISTATS-23</font>**. _International Conference on Artificial Intelligence and Statistics_. 2023.  
 
 *   Sanket Shah, Kai Wang, Bryan Wilder, Andrew Perrault, Milind Tambe.  
     Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses. [[arXiv]](https://arxiv.org/abs/2203.16067)    
