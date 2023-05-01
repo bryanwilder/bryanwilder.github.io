@@ -4,9 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*   Michael Poli, Bryan Wilder, Eric Horvitz.  
+*   Ananya Joshi, Roni Rosenfeld, Bryan Wilder.  
+    Computationally Assisted Quality Control for Public Health Data Streams.    
+    **<font color="#1A5276">IJCAI-23</font>**. _International Joint Conference on Artificial Intelligence_. 2023.    
+
+*   Aditya Mate, Bryan Wilder, Aparna Taneja, Milind Tambe.  
+    Improved Policy Evaluation for Randomized Trials of Algorithmic Resource Allocation.    
+    **<font color="#1A5276">ICML-23</font>**. _International Conference on Machine Learning_. 2023.  [[arXiv]](https://arxiv.org/abs/2302.02570)    
+
+*   Michael Poli, Stefano Massaroli, Stefano Ermon, Bryan Wilder, Eric Horvitz.  
     Ideal Abstractions for Decision-Focused Learning.    
-    **<font color="#1A5276">AISTATS-23</font>**. _International Conference on Artificial Intelligence and Statistics_. 2023.  
+    **<font color="#1A5276">AISTATS-23</font>**. _International Conference on Artificial Intelligence and Statistics_. 2023.  [[arXiv]](https://arxiv.org/abs/2303.17062)    
 
 *   Sanket Shah, Kai Wang, Bryan Wilder, Andrew Perrault, Milind Tambe.  
     Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses. [[arXiv]](https://arxiv.org/abs/2203.16067)    
