@@ -29,7 +29,7 @@ author_profile: true
     **<font color="#1A5276">AAAI-21</font>**. _AAAI Conference on Artificial Intelligence_. 2021.  
 
 *   Daniel B. Larremore, Bryan Wilder, Evan Lester, Soraya Shehata, James M. Burke, James A. Hay, Milind Tambe, Michael J. Mina, Roy Parker.  
-    Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[Link]](https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393.1)   
+    Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance. [[Link]](https://www.science.org/doi/10.1126/sciadv.abd5393)   
    _Science Advances_. 2020.
 
 *   Bryan Wilder, Marie Charpignon, Jackson A. Killian, Han-Ching Ou, Aditya Mate, Shahin Jabbari, Andrew Perrault, Angel Desai, Milind Tambe, Maimuna S. Majumder.  
