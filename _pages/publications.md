@@ -11,6 +11,14 @@ author_profile: true
 *   Aditya Mate, Bryan Wilder, Aparna Taneja, Milind Tambe.  
     Improved Policy Evaluation for Randomized Trials of Algorithmic Resource Allocation.    
     **<font color="#1A5276">ICML-23</font>**. _International Conference on Machine Learning_. 2023.  [[arXiv]](https://arxiv.org/abs/2302.02570)    
+    
+*   Bryan Wilder, Clara Pons-Duran, Frederick G. B. Goddard, Bezawit Mesfin Hunegnaw, Sebastien Haneuse, Delayehu Bekele, Grace J. Chan.  
+    Development of Prediction Models for Antenatal Care Attendance in Amhara Region, Ethiopia.    
+     _JAMA Network Open_. 2023.  [[Link]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2805447)    
+     
+*   Clara Pons-Duran, Bryan Wilder, Bezawit Mesfin Hunegnaw, Sebastien Haneuse, Frederick G. B. Goddard, Delayehu Bekele, Grace J. Chan.  
+    Development of risk prediction models for preterm delivery in a rural setting in Ethiopia.    
+     _Journal of Global Health_. 2023.  [[Link]](https://jogh.org/2023/jogh-13-04051)    
 
 *   Michael Poli, Stefano Massaroli, Stefano Ermon, Bryan Wilder, Eric Horvitz.  
     Ideal Abstractions for Decision-Focused Learning.    
