@@ -8,6 +8,10 @@ author_profile: true
     Computationally Assisted Quality Control for Public Health Data Streams.    
     **<font color="#1A5276">IJCAI-23</font>**. _International Joint Conference on Artificial Intelligence_. 2023.    
 
+*   Haipeng Chen, Bryan Wilder, Wei Qiu, Bo An, Eric Rice, Milind Tambe.  
+    Complex Contagion Influence Maximization: A Reinforcement Learning Approach.    
+    **<font color="#1A5276">IJCAI-23</font>**. _International Joint Conference on Artificial Intelligence_. 2023.    
+
 *   Aditya Mate, Bryan Wilder, Aparna Taneja, Milind Tambe.  
     Improved Policy Evaluation for Randomized Trials of Algorithmic Resource Allocation.    
     **<font color="#1A5276">ICML-23</font>**. _International Conference on Machine Learning_. 2023.  [[arXiv]](https://arxiv.org/abs/2302.02570)    
@@ -31,6 +35,11 @@ author_profile: true
 *   Bryan Wilder, Laura Onasch-Vera, Graham Diguiseppi, Robin Petering Chyna Hill, Amulya Yadav, Eric Rice, Milind Tambe.  
     Clinical trial of an AI-augmented intervention for HIV prevention in youth experiencing homelessness. [[arXiv]](https://arxiv.org/abs/2009.09559)    
     **<font color="#1A5276">AAAI-21</font>**. _AAAI Conference on Artificial Intelligence_. 2021.  
+    
+*   Eric Rice, Bryan Wilder, Laura Onasch-Vera, Graham DiGuiseppi, Robin Petering, Chyna Hill, Amulya Yadav, Sung-Jae Lee, Milind Tambe.  
+A Peer-Led, Artificial Intelligence–Augmented Social Network Intervention to Prevent HIV Among Youth Experiencing Homelessness. [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8579989/)    
+_Journal of Acquired Immune Deficiency Syndromes_. 2021.  
+
     
 *   Bryan Wilder, Michael J. Mina, Milind Tambe.  
     Tracking disease outbreaks from sparse data with Bayesian inference. [[arXiv]](https://arxiv.org/abs/2009.05863) [[code]](files/gprt_code_release.zip)    
