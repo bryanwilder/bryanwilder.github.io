@@ -4,9 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+*   Ben Chugg, Santiago Cortes-Gomez, Bryan Wilder, Aaditya Ramdas.  
+    Auditing Fairness by Betting.    
+    **<font color="#1A5276">NeurIPS-23</font>**. _Advances in Neural and Information Processing Systems_. 2023. [[arXiv]](https://arxiv.org/abs/2305.17570)      
+
 *   Ananya Joshi, Roni Rosenfeld, Bryan Wilder.  
     Computationally Assisted Quality Control for Public Health Data Streams.    
-    **<font color="#1A5276">IJCAI-23</font>**. _International Joint Conference on Artificial Intelligence_. 2023.    
+    **<font color="#1A5276">IJCAI-23</font>**. _International Joint Conference on Artificial Intelligence_. 2023. [[arXiv]](https://arxiv.org/abs/2306.16914)    
 
 *   Haipeng Chen, Bryan Wilder, Wei Qiu, Bo An, Eric Rice, Milind Tambe.  
     Complex Contagion Influence Maximization: A Reinforcement Learning Approach.    
