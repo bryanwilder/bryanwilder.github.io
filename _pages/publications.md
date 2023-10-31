@@ -8,6 +8,7 @@ author_profile: true
 *   Ben Chugg, Santiago Cortes-Gomez, Bryan Wilder, Aaditya Ramdas.  
     Auditing Fairness by Betting.    
     **<font color="#1A5276">NeurIPS-23</font>**. _Advances in Neural and Information Processing Systems_. 2023. [[arXiv]](https://arxiv.org/abs/2305.17570)      
+    **<font color="red">Spotlight presentation</font>**
 
 *   Ananya Joshi, Roni Rosenfeld, Bryan Wilder.  
     Computationally Assisted Quality Control for Public Health Data Streams.    
