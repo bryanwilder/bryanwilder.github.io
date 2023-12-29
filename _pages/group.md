@@ -11,3 +11,4 @@ author_profile: true
 * Santiago Cortes Gomez
 * Ruiqi Lyu (co-advised with Roni Rosenfeld)
 * Ananya Joshi (co-advised with Roni Rosenfeld)
+* Khurram Yamin (co-advised with Edward Kennedy)
