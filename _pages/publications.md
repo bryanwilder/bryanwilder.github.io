@@ -4,7 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*   Santiago Cortes-Gomez, Mateo Dulce, Carlos Patino, Bryan Wilder.  
+    Statistical Inference Under Constrained Selection Bias.    
+    Preprint. [[arXiv]](https://arxiv.org/abs/2306.03302)
 
+*   Ananya Joshi, Tina Townes, Nolan Gormley, Luke Neurieter, Roni Rosenfeld, Bryan Wilder.  
+    Outlier Ranking For Large-Scale Public Health Data.    
+    **<font color="#1A5276">AAAI-24</font>**. _AAAI Conference on Artificial Intelligence_. 2024.
+
+*   Sanket Shah, Andrew Perrault, Bryan Wilder, Milind Tambe.  
+    Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize.    
+    **<font color="#1A5276">AAAI-24</font>**. _AAAI Conference on Artificial Intelligence_. 2024. [[arXiv]](https://arxiv.org/abs/2305.16830)
+         
 *   Ben Chugg, Santiago Cortes-Gomez, Bryan Wilder, Aaditya Ramdas.  
     Auditing Fairness by Betting.    
     **<font color="#1A5276">NeurIPS-23</font>**. _Advances in Neural and Information Processing Systems_. 2023. [[arXiv]](https://arxiv.org/abs/2305.17570)      
