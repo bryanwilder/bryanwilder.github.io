@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*   Bryan Wilder, Pim Welle.  
+    Learning treatment effects while treating those in need.    
+    [[Preprint]](https://www.dropbox.com/scl/fi/illl10z3aj9s304f6kqie/learning_targeting.pdf?rlkey=yd4vsdzy9gqqxq2vsfel6n6s5&dl=0).
+
 *   Santiago Cortes-Gomez, Mateo Dulce, Carlos Patino, Bryan Wilder.  
     Statistical Inference Under Constrained Selection Bias.    
     Preprint. [[arXiv]](https://arxiv.org/abs/2306.03302)
