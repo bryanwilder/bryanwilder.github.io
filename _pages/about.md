@@ -13,6 +13,7 @@ I am an Assistant Professor in the Machine Learning Department at Carnegie Mello
 At CMU I direct the Lab for AI and Social Impact (LASI). The group's work focuses on developing machine learning methods that support robust and equitable decision making. Current domains include infectious diseases and maternal and child health, with past projects in areas such as HIV prevention and tuberculosis treatment. Our research is funded by awards from Schmidt Futures, NSF, and the CDC.  
 
 # News
+*	February 2024: My dissertation received the honorable mention for the [AAAI/ACM SIGAI Best Dissertation Award](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/).
 *	September 2023: I will serve as co-PI of a [CDC Center for Innovation](https://www.cmu.edu/news/stories/archives/2023/september/cdc-selects-delphi-research-group-at-cmu-as-center-for-innovation-in-outbreak-analytics-and-disease) at CMU.
 *	July 2023: Gave an invited tutorial at the [International Conference on Stochastic Programming](https://na.eventscloud.com/website/40825/tutorials/)
 *	December 2022: Selected for a [Schmidt Futures AI2050 Early Career Award](https://www.schmidtfutures.com/schmidt-futures-announces-first-cohort-of-ai2050-early-career-fellows/)
