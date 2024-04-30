@@ -12,13 +12,17 @@ author_profile: true
     Statistical Inference Under Constrained Selection Bias.    
     Preprint. [[arXiv]](https://arxiv.org/abs/2306.03302)
 
-*   Robustly Quantifying Inequity in Resource Allocation.  
+*   Kevin Ren, Yewon Byun, Bryan Wilder.  
+    Evaluating Worst-Case Distribution Shift in Resource Allocation Tasks.    
+    **<font color="#1A5276">UAI-24</font>**. _Conference on Uncertainty in Artificial Intelligence_. 2024. 
+    
+*   Auditing Fairness under Unobserved Confounding.  
     Yewon Byun, Dylan Sam, Michael Oberst, Zachary Lipton, Bryan Wilder.    
-    **<font color="#1A5276">AISTATS-24</font>**. _International Conference on Artificial Intelligence and Statistics_. 2024.
+    **<font color="#1A5276">AISTATS-24</font>**. _International Conference on Artificial Intelligence and Statistics_. 2024. [[arXiv]](https://arxiv.org/abs/2403.14713)
 
 *   Ananya Joshi, Tina Townes, Nolan Gormley, Luke Neurieter, Roni Rosenfeld, Bryan Wilder.  
     Outlier Ranking For Large-Scale Public Health Data.    
-    **<font color="#1A5276">AAAI-24</font>**. _AAAI Conference on Artificial Intelligence_. 2024.
+    **<font color="#1A5276">AAAI-24</font>**. _AAAI Conference on Artificial Intelligence_. 2024. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/30222)
 
 *   Sanket Shah, Andrew Perrault, Bryan Wilder, Milind Tambe.  
     Leaving the Nest: Going Beyond Local Loss Functions for Predict-Then-Optimize.    
