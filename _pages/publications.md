@@ -10,7 +10,7 @@ author_profile: true
 
 *   Santiago Cortes-Gomez, Mateo Dulce, Carlos Patino, Bryan Wilder.  
     Statistical Inference Under Constrained Selection Bias.    
-    Preprint. [[arXiv]](https://arxiv.org/abs/2306.03302)
+    **<font color="#1A5276">ICML-24</font>**. _International Conference on Machine Learning_. 2024. [[arXiv]](https://arxiv.org/abs/2306.03302)
 
 *   Kevin Ren, Yewon Byun, Bryan Wilder.  
     Evaluating Worst-Case Distribution Shift in Resource Allocation Tasks.    
