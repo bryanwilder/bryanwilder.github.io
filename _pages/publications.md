@@ -8,6 +8,10 @@ author_profile: true
     Learning treatment effects while treating those in need.    
     [[Preprint]](https://www.dropbox.com/scl/fi/illl10z3aj9s304f6kqie/learning_targeting.pdf?rlkey=yd4vsdzy9gqqxq2vsfel6n6s5&dl=0).
 
+*   Tamar Krishnamurti, Samantha Rodriguez, Bryan Wilder, Priya Gopalan, Hyagriv N. Simhan.  
+    Predicting first time depression onset in pregnancy: applying machine learning methods to patient-reported data.    
+    Archives of Women's Mental Health. 2024. [[Link]](https://link.springer.com/article/10.1007/s00737-024-01474-w)
+
 *   Santiago Cortes-Gomez, Mateo Dulce, Carlos Patino, Bryan Wilder.  
     Statistical Inference Under Constrained Selection Bias.    
     **<font color="#1A5276">ICML-24</font>**. _International Conference on Machine Learning_. 2024. [[arXiv]](https://arxiv.org/abs/2306.03302)
