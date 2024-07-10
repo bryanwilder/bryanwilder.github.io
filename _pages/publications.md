@@ -21,8 +21,8 @@ author_profile: true
     **<font color="#1A5276">ICML-24</font>**. _International Conference on Machine Learning_. 2024. [[arXiv]](https://arxiv.org/abs/2306.03302)
 
 *   Kevin Ren, Yewon Byun, Bryan Wilder.  
-    Evaluating Worst-Case Distribution Shift in Resource Allocation Tasks.    
-    **<font color="#1A5276">UAI-24</font>**. _Conference on Uncertainty in Artificial Intelligence_. 2024. 
+    Decision-Focused Evaluation of Worst-Case Distribution Shift.    
+    **<font color="#1A5276">UAI-24</font>**. _Conference on Uncertainty in Artificial Intelligence_. 2024.  [[arXiv]](https://arxiv.org/abs/2407.03557v1)
     
 *   Auditing Fairness under Unobserved Confounding.  
     Yewon Byun, Dylan Sam, Michael Oberst, Zachary Lipton, Bryan Wilder.    
