@@ -6,7 +6,7 @@ author_profile: true
 ---
 *   Bryan Wilder, Pim Welle.  
     Learning treatment effects while treating those in need.    
-    [[Preprint]](https://www.dropbox.com/scl/fi/illl10z3aj9s304f6kqie/learning_targeting.pdf?rlkey=yd4vsdzy9gqqxq2vsfel6n6s5&dl=0).
+    [[Preprint]](https://arxiv.org/abs/2407.07596).
 
 *   Justin Whitehouse, Christopher Jung, Vasilis Syrgkanis, Bryan Wilder, Zhiwei Steven Wu.  
     Orthogonal Causal Calibration.    
