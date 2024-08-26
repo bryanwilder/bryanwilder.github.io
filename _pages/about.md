@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the Machine Learning Department at Carnegie Mellon University. My research focuses on AI for equitable, data-driven decision making in high-stakes social settings, integrating methods from machine learning, optimization, and causal inference. Much of my work is motivated by public health applications. I completed my PhD in Computer Science at Harvard University. Before joining CMU as an assistant professor, I was a postdoctoral Schmidt Science Fellow at Harvard School of Public Health and Carnegie Mellon University. 
 
-At CMU I direct the Lab for AI and Social Impact (LASI). The group's work focuses on developing machine learning methods that support robust and equitable decision making. Current domains include infectious diseases and maternal and child health, with past projects in areas such as HIV prevention and tuberculosis treatment. Our research is funded by awards from Schmidt Futures, NSF, and the CDC.  
+At CMU I direct the Lab for AI and Social Impact (LASI). The group's work focuses on developing machine learning methods that support robust and equitable decision making. Current domains include maternal and child health, human services, and infectious diseases. Our research is funded by awards from Schmidt Futures, NSF, NIH, and the CDC.  
 
 # News
 *	February 2024: My dissertation received the honorable mention for the [AAAI/ACM SIGAI Best Dissertation Award](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/).
