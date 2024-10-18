@@ -20,6 +20,6 @@ PhD Students
 Postdoc
 * Jianyu Xu (co-supervised with Aarti Singh)
 
-Masters and Undergraduate students
+Masters and Undergraduate Students
 * Vibhhu Sharma (CMU Master's in Machine Learning)
 * Kevin Ren (CMU undergraduate)
