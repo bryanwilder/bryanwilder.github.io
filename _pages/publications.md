@@ -6,11 +6,24 @@ author_profile: true
 ---
 *   Bryan Wilder, Pim Welle.  
     Learning treatment effects while treating those in need.    
-    [[Preprint]](https://arxiv.org/abs/2407.07596).
+    [[Preprint]](https://arxiv.org/abs/2407.07596).  
+    _Nonarchival version at 2024 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_
 
 *   Justin Whitehouse, Christopher Jung, Vasilis Syrgkanis, Bryan Wilder, Zhiwei Steven Wu.  
     Orthogonal Causal Calibration.    
     [[Preprint]](https://arxiv.org/abs/2406.01933).
+
+*   Santiago Cortes-Gomez, Carlos Patino, Yewon Byun, Steven Wu, Eric Horvitz, Bryan Wilder.  
+    Decision-Focused Uncertainty Quantification.    
+    [[Preprint]](https://arxiv.org/html/2410.01767v1).
+
+*   Ruiqi Lyu, Roni Rosenfeld, Bryan Wilder.  
+    Federated Epidemic Surveillance.    
+    [[Preprint]](https://arxiv.org/abs/2307.02616).
+    
+*   Santiago Cortes-Gomez, Naveen Raman, Aarti Singh, and Bryan Wilder.  
+    Data-driven Design of Randomized Control Trials with Guaranteed Treatment Effects.    
+    [[Preprint]](https://arxiv.org/html/2410.01767v1).
 
 *   Tamar Krishnamurti, Samantha Rodriguez, Bryan Wilder, Priya Gopalan, Hyagriv N. Simhan.  
     Predicting first time depression onset in pregnancy: applying machine learning methods to patient-reported data.    
