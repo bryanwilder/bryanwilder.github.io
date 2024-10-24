@@ -17,6 +17,10 @@ author_profile: true
     Decision-Focused Uncertainty Quantification.    
     [[Preprint]](https://arxiv.org/html/2410.01767v1).
 
+*   Khurram Yamin, Vibhhu Sharma, Ed Kennedy, Bryan Wilder.  
+    Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
+    [[Preprint]](https://arxiv.org/abs/2410.15655).    
+
 *   Ruiqi Lyu, Roni Rosenfeld, Bryan Wilder.  
     Federated Epidemic Surveillance.    
     [[Preprint]](https://arxiv.org/abs/2307.02616).
