@@ -12,6 +12,8 @@ I am an Assistant Professor in the Machine Learning Department at Carnegie Mello
 
 At CMU I direct the Lab for AI and Social Impact (LASI). The group's work focuses on developing machine learning methods that support robust and equitable decision making. Current domains include maternal and child health, human services, and infectious diseases. Our research is funded by awards from Schmidt Futures, NSF, NIH, and the CDC.  
 
+I serve as Chair of the Board of Directors for [EAAMO](https://eaamo.org/) and the associated [ACM EAAMO conference](https://conference.eaamo.org/). EAAMO is a global research community of over 3000 people which aims perspectives and interests of marginalized groups at the foundation of algorithmic and resource allocation systems.  
+
 # News
 *	February 2024: My dissertation received the honorable mention for the [AAAI/ACM SIGAI Best Dissertation Award](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/).
 *	September 2023: I will serve as co-PI of a [CDC Center for Innovation](https://www.cmu.edu/news/stories/archives/2023/september/cdc-selects-delphi-research-group-at-cmu-as-center-for-innovation-in-outbreak-analytics-and-disease) at CMU.
