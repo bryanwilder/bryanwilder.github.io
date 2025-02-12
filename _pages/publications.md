@@ -13,10 +13,6 @@ author_profile: true
     Orthogonal Causal Calibration.    
     [[Preprint]](https://arxiv.org/abs/2406.01933).
 
-*   Santiago Cortes-Gomez, Carlos Patino, Yewon Byun, Steven Wu, Eric Horvitz, Bryan Wilder.  
-    Decision-Focused Uncertainty Quantification.    
-    [[Preprint]](https://arxiv.org/html/2410.01767v1).
-
 *   Khurram Yamin, Vibhhu Sharma, Ed Kennedy, Bryan Wilder.  
     Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
     [[Preprint]](https://arxiv.org/abs/2410.15655).    
@@ -28,6 +24,18 @@ author_profile: true
 *   Santiago Cortes-Gomez, Naveen Raman, Aarti Singh, and Bryan Wilder.  
     Data-driven Design of Randomized Control Trials with Guaranteed Treatment Effects.    
     [[Preprint]](https://arxiv.org/html/2410.01767v1).
+
+*   Santiago Cortes-Gomez, Carlos Patino, Yewon Byun, Steven Wu, Eric Horvitz, Bryan Wilder.  
+    Decision-Focused Uncertainty Quantification.    
+    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.[[arXiv]](https://arxiv.org/html/2410.01767v1).
+
+*   Lily Xu, Bryan Wilder, Elias Boutros Khalil, Milind Tambe.  
+    Reinforcement learning with combinatorial actions for coupled restless bandits.    
+    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.
+
+*   Vibhu Sharma, Bryan Wilder.  
+    Comparing Targeting Strategies for Maximizing Social Welfare with Limited Resources.    
+    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.
 
 *   Tamar Krishnamurti, Samantha Rodriguez, Bryan Wilder, Priya Gopalan, Hyagriv N. Simhan.  
     Predicting first time depression onset in pregnancy: applying machine learning methods to patient-reported data.    
