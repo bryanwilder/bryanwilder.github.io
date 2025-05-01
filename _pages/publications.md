@@ -19,11 +19,11 @@ author_profile: true
 
 *   Ruiqi Lyu, Roni Rosenfeld, Bryan Wilder.  
     Federated Epidemic Surveillance.    
-    [[Preprint]](https://arxiv.org/abs/2307.02616).
+    _PLOS Computational Biology_. 2025. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012907).
     
 *   Santiago Cortes-Gomez, Naveen Raman, Aarti Singh, and Bryan Wilder.  
     Data-driven Design of Randomized Control Trials with Guaranteed Treatment Effects.    
-    [[Preprint]](https://arxiv.org/html/2410.01767v1).
+    **<font color="#1A5276">ICML-25</font>**. _International Conference on Machine Learning_. 2025. [[arXiv]](https://arxiv.org/html/2410.01767v1).
 
 *   Santiago Cortes-Gomez, Carlos Patino, Yewon Byun, Steven Wu, Eric Horvitz, Bryan Wilder.  
     Decision-Focused Uncertainty Quantification.    
