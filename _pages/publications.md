@@ -4,18 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+*   Khurram Yamin, Vibhhu Sharma, Ed Kennedy, Bryan Wilder.  
+    Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
+    [[Preprint]](https://arxiv.org/abs/2410.15655).
+    
 *   Bryan Wilder, Pim Welle.  
     Learning treatment effects while treating those in need.    
-    [[Preprint]](https://arxiv.org/abs/2407.07596).  
+    **<font color="#1A5276">EC-25</font>**. _ACM Conference on Economics and Computation_. [[arXiv]](https://arxiv.org/abs/2407.07596).  
     _Nonarchival version at 2024 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_
 
 *   Justin Whitehouse, Christopher Jung, Vasilis Syrgkanis, Bryan Wilder, Zhiwei Steven Wu.  
     Orthogonal Causal Calibration.    
-    [[Preprint]](https://arxiv.org/abs/2406.01933).
-
-*   Khurram Yamin, Vibhhu Sharma, Ed Kennedy, Bryan Wilder.  
-    Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
-    [[Preprint]](https://arxiv.org/abs/2410.15655).    
+    **<font color="#1A5276">COLT-25</font>**. _Conference on Learning Theory_. 2025. [[arXiv]](https://arxiv.org/abs/2406.01933).
 
 *   Ruiqi Lyu, Roni Rosenfeld, Bryan Wilder.  
     Federated Epidemic Surveillance.    
