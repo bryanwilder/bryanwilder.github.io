@@ -21,13 +21,17 @@ author_profile: true
 *   Ruiqi Lyu, Roni Rosenfeld, Bryan Wilder.  
     Federated Epidemic Surveillance.    
     _PLOS Computational Biology_. 2025. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012907).
+
+*   Xueda Shen, Aaron Rumack, Bryan Wilder, Ryan Tibshirani.  
+    Nowcasting reported covid-19 hospitalizations using de-identified, aggregated medical insurance claims data.    
+    _PLOS Computational Biology_. 2025. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012717).
     
 *   Santiago Cortes-Gomez, Naveen Raman, Aarti Singh, and Bryan Wilder.  
     Data-driven Design of Randomized Control Trials with Guaranteed Treatment Effects.    
     **<font color="#1A5276">ICML-25</font>**. _International Conference on Machine Learning_. 2025. [[arXiv]](https://arxiv.org/html/2410.01767v1).
 
-*   Santiago Cortes-Gomez, Carlos Patino, Yewon Byun, Steven Wu, Eric Horvitz, Bryan Wilder.  
-    Decision-Focused Uncertainty Quantification.    
+*   Santiago Cortes-Gomez, Carlos Patiño, Yewon Byun, Steven Wu, Eric Horvitz, Bryan Wilder.  
+    Utility-Directed Conformal Prediction: A Decision-Aware Framework for Actionable Uncertainty Quantification.    
     **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.[[arXiv]](https://arxiv.org/html/2410.01767v1).
 
 *   Lily Xu, Bryan Wilder, Elias Boutros Khalil, Milind Tambe.  
