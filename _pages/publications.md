@@ -9,6 +9,10 @@ author_profile: true
     Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
     [[Preprint]](https://arxiv.org/abs/2410.15655).
     
+*   Khurram Yamin, Edward Kennedy, Bryan Wilder.  
+    Dependent Randomized Rounding for Budget Constrained Experimental Design.    
+    **<font color="#1A5276">UAI-25</font>**. _Conference on Uncertainty in Artificial Intelligence_. [[arXiv]](https://arxiv.org/abs/2506.12677).  
+
 *   Bryan Wilder, Pim Welle.  
     Learning treatment effects while treating those in need.    
     **<font color="#1A5276">EC-25</font>**. _ACM Conference on Economics and Computation_. [[arXiv]](https://arxiv.org/abs/2407.07596).  
