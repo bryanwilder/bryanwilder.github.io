@@ -15,7 +15,8 @@ author_profile: true
 
 *   Bryan Wilder, Pim Welle.  
     Learning treatment effects while treating those in need.    
-    **<font color="#1A5276">EC-25</font>**. _ACM Conference on Economics and Computation_. [[arXiv]](https://arxiv.org/abs/2407.07596).  
+    **<font color="#1A5276">EC-25</font>**. _ACM Conference on Economics and Computation_. [[arXiv]](https://arxiv.org/abs/2407.07596).    
+    **<font color="red">Exemplary paper award for AI Track at EC 2025</font>**    
     _Nonarchival version at 2024 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)_
 
 *   Justin Whitehouse, Christopher Jung, Vasilis Syrgkanis, Bryan Wilder, Zhiwei Steven Wu.  
