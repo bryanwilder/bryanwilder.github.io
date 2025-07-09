@@ -15,6 +15,7 @@ At CMU I direct the Lab for AI and Social Impact (LASI). The group's work focuse
 I serve as Chair of the Board of Directors for [EAAMO](https://eaamo.org/) and the associated [ACM EAAMO conference](https://conference.eaamo.org/). EAAMO is a global research community of over 3000 people which aims to put the perspectives and interests of marginalized groups at the foundation of algorithmic and resource allocation systems.  
 
 # News
+*	July 2025: Paper on ["Learning treatment effects while treating those in need"](https://arxiv.org/abs/2407.07596) received the exemplary paper award for the AI track at EC 2025.
 *	February 2024: My dissertation received the honorable mention for the [AAAI/ACM SIGAI Best Dissertation Award](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/).
 *	September 2023: I will serve as co-PI of a [CDC Center for Innovation](https://www.cmu.edu/news/stories/archives/2023/september/cdc-selects-delphi-research-group-at-cmu-as-center-for-innovation-in-outbreak-analytics-and-disease) at CMU.
 *	July 2023: Gave an invited tutorial at the [International Conference on Stochastic Programming](https://na.eventscloud.com/website/40825/tutorials/)
