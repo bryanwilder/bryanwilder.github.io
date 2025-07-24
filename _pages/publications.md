@@ -5,6 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+*   Lydia T. Liu, Inioluwa Deborah Raji, Angela Zhou, Luke Guerdan, Jessica Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Hammaad Adam, Amanda Coston, Ben Laufer, Ezinne Nwankwo, Michael Zanger-Tishler, Eli Ben-Michael, Solon Barocas, Avi Feller, Marissa Gerchick, Talia Gillis, Shion Guha, Daniel Ho, Lily Hu, Kosuke Imai, Sayash Kapoor, Joshua Loftus, Razieh Nabi, Arvind Narayanan, Ben Recht, Juan Carlos Perdomo, Matthew Salganik, Mark Sendak, Alexander Tolbert, Berk Ustun, Suresh Venkatasubramanian, Angelina Wang, Ashia Wilson.  
+    Bridging Prediction and Intervention Problems in Social Systems.    
+    [[Preprint]](https://arxiv.org/abs/2507.05216).
+
+*   Yewon Byun, Shantanu Gupta, Zachary C. Lipton, Rachel Leah Childers, Bryan Wilder.  
+    Valid Inference with Imperfect Synthetic Data.    
+    [[Preprint]](https://openreview.net/pdf?id=pdAEaug60V).
+
+*   Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder.  
+    Failure Modes of LLMs for Causal Reasoning on Narratives.    
+    [[Preprint]](http://arxiv.org/abs/2410.23884).
+    
+*   Ruiqi Lyu, Alistair Turcan, Bryan Wilder.  
+    Explaining Concept Shift with Interpretable Feature Attribution.    
+    [[Preprint]](http://arxiv.org/abs/2505.20634).
+
 *   Khurram Yamin, Vibhhu Sharma, Ed Kennedy, Bryan Wilder.  
     Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
     [[Preprint]](https://arxiv.org/abs/2410.15655).
@@ -39,13 +55,17 @@ author_profile: true
     Utility-Directed Conformal Prediction: A Decision-Aware Framework for Actionable Uncertainty Quantification.    
     **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.[[arXiv]](https://arxiv.org/html/2410.01767v1).
 
-*   Lily Xu, Bryan Wilder, Elias Boutros Khalil, Milind Tambe.  
-    Reinforcement learning with combinatorial actions for coupled restless bandits.    
-    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.
-
 *   Vibhu Sharma, Bryan Wilder.  
     Comparing Targeting Strategies for Maximizing Social Welfare with Limited Resources.    
     **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.
+    
+*   Lily Xu, Bryan Wilder, Elias Boutros Khalil, Milind Tambe.  
+    Reinforcement learning with combinatorial actions for coupled restless bandits.    
+    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.
+    
+*   Yewon Byun, Sanket Vaibhav Mehta, Saurabh Garg, Michael Oberst, Emma Strubell, Bryan Wilder, Zachary Lipton.  
+    The Value of Synthetic Data for Domain Incremental Learning.    
+    **<font color="#1A5276">TMLR</font>**. _Transactions on Machine Learning Research_. 2025.
 
 *   Tamar Krishnamurti, Samantha Rodriguez, Bryan Wilder, Priya Gopalan, Hyagriv N. Simhan.  
     Predicting first time depression onset in pregnancy: applying machine learning methods to patient-reported data.    
