@@ -11,7 +11,6 @@ PhD Students
 * Ye Won (Emily) Byun (co-advised with Zachary Lipton)
 * Santiago Cortes Gomez
 * Ruiqi Lyu (co-advised with Roni Rosenfeld)
-* Ananya Joshi (co-advised with Roni Rosenfeld)
 * Khurram Yamin (co-advised with Edward Kennedy)
 * Maitreyi Swaroop
 * Kanad Pardeshi (co-advised with Aarti Singh)
@@ -20,6 +19,7 @@ PhD Students
 Postdoc
 * Jianyu Xu (co-supervised with Aarti Singh)
 
-Masters and Undergraduate Students
-* Vibhhu Sharma (CMU Master's in Machine Learning)
-* Kevin Ren (CMU undergraduate)
+Alumni
+* Vibhhu Sharma (MS 2025 -> Cornell Computer Science PhD)
+* Kevin Ren (BS 2025 -> Cornell Computer Science PhD)
+* Ananya Joshi (PhD 2025 co-advised with Roni Rosenfeld -> Assistant Professor at Johns Hopkins University)
