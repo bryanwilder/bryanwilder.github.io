@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Machine Learning Department at Carnegie Mellon University. My research focuses on AI for equitable, data-driven decision making in high-stakes social settings, integrating methods from machine learning, optimization, and causal inference. Much of my work is motivated by applications in public health, medicine, and human services. I completed my PhD in Computer Science at Harvard University. Before joining CMU, I was a postdoctoral Schmidt Science Fellow at the Harvard School of Public Health. 
-
-At CMU I direct the Lab for AI and Social Impact (LASI). The group's work focuses on developing machine learning methods that support robust and equitable decision making. Current domains include maternal and child health, human services, and infectious diseases. Our research is funded by awards from Schmidt Futures, NSF, NIH, and the CDC.  
-
-I serve as Chair of the Board of Directors for [EAAMO](https://eaamo.org/) and the associated [ACM EAAMO conference](https://conference.eaamo.org/). EAAMO is a global research community of over 3000 people which aims to put the perspectives and interests of marginalized groups at the foundation of algorithmic and resource allocation systems.  
+I am an Assistant Professor in the Machine Learning Department at Carnegie Mellon University. I study the foundations of machine learning for social, policy, and healthcare settings, blending new methodology with field evaluations to improve AI’s societal impact. My work is shaped by partnerships with governments, nonprofits, health systems, and other partners. At CMU, I direct the Lab for AI and Social Impact. Our research has been funded by Schmidt Sciences, NSF, NIH, CDC, and the Engler Family Foundation. I completed my PhD in Computer Science at Harvard University. Before joining CMU, I was a postdoctoral Schmidt Science Fellow at the Harvard School of Public Health. I serve as Chair of the Board of Directors for [EAAMO](https://eaamo.org/) and the associated [ACM EAAMO conference](https://conference.eaamo.org/).
 
 # News
 *	July 2025: Paper on ["Learning treatment effects while treating those in need"](https://arxiv.org/abs/2407.07596) received the exemplary paper award for the AI track at EC 2025.
