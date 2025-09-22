@@ -9,9 +9,6 @@ author_profile: true
     Bridging Prediction and Intervention Problems in Social Systems.    
     [[Preprint]](https://arxiv.org/abs/2507.05216).
 
-*   Yewon Byun, Shantanu Gupta, Zachary C. Lipton, Rachel Leah Childers, Bryan Wilder.  
-    Valid Inference with Imperfect Synthetic Data.    
-    [[Preprint]](https://openreview.net/pdf?id=pdAEaug60V).
 
 *   Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder.  
     Failure Modes of LLMs for Causal Reasoning on Narratives.    
@@ -24,6 +21,18 @@ author_profile: true
 *   Khurram Yamin, Vibhhu Sharma, Ed Kennedy, Bryan Wilder.  
     Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
     [[Preprint]](https://arxiv.org/abs/2410.15655).
+    
+*   Yewon Byun, Shantanu Gupta, Zachary C. Lipton, Rachel Leah Childers, Bryan Wilder.  
+   Using Imperfect Synthetic Data in Downstream Inference Tasks.    
+    **<font color="#1A5276">NeurIPS-25</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2508.06635).
+
+*   Maitreyi Swaroop, Tamar Krishnamurti, Bryan Wilder.  
+   Distributionally Robust Feature Selection.    
+    **<font color="#1A5276">NeurIPS-25</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2508.06635).
+
+*   Kevin Ren, Santiago Cortes-Gomez, Carlos Miguel Patiño, Ananya Joshi, Ruiqi Lyu, Jingjing Tang, Alistair Turcan, Khurram Yamin, Steven Wu, Bryan Wilder.  
+    Predicting Language Models' Success at Zero-Shot Probabilistic Prediction.    
+    _Findings of EMNLP 2025._ [[arXiv]](https://arxiv.org/abs/2509.15356v1).
     
 *   Khurram Yamin, Edward Kennedy, Bryan Wilder.  
     Dependent Randomized Rounding for Budget Constrained Experimental Design.    
