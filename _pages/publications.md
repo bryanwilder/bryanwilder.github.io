@@ -71,15 +71,15 @@ author_profile: true
 
 *   Vibhu Sharma, Bryan Wilder.  
     Comparing Targeting Strategies for Maximizing Social Welfare with Limited Resources.    
-    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.
+    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025. [[arXiv]](https://arxiv.org/abs/2411.07414)
     
 *   Lily Xu, Bryan Wilder, Elias Boutros Khalil, Milind Tambe.  
     Reinforcement learning with combinatorial actions for coupled restless bandits.    
-    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025.
+    **<font color="#1A5276">ICLR-25</font>**. _International Conference on Learning Representations_. 2025. [[arXiv]](https://arxiv.org/abs/2503.01919)
     
 *   Yewon Byun, Sanket Vaibhav Mehta, Saurabh Garg, Michael Oberst, Emma Strubell, Bryan Wilder, Zachary Lipton.  
-    The Value of Synthetic Data for Domain Incremental Learning.    
-    **<font color="#1A5276">TMLR</font>**. _Transactions on Machine Learning Research_. 2025.
+    Expert Routing with Synthetic Data for Domain Incremental Learning.    
+    **<font color="#1A5276">TMLR</font>**. _Transactions on Machine Learning Research_. 2025. [[Link]](https://openreview.net/pdf?id=QdQVfdXnsG)
 
 *   Tamar Krishnamurti, Samantha Rodriguez, Bryan Wilder, Priya Gopalan, Hyagriv N. Simhan.  
     Predicting first time depression onset in pregnancy: applying machine learning methods to patient-reported data.    
