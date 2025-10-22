@@ -23,7 +23,7 @@ author_profile: true
     [[Preprint]](https://arxiv.org/abs/2410.15655).
     
 *   Yewon Byun, Shantanu Gupta, Zachary C. Lipton, Rachel Leah Childers, Bryan Wilder.  
-   Using Imperfect Synthetic Data in Downstream Inference Tasks.    
+   Valid Inference with Imperfect Synthetic Data.    
     **<font color="#1A5276">NeurIPS-25</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2508.06635).
 
 *   Maitreyi Swaroop, Tamar Krishnamurti, Bryan Wilder.  
