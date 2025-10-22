@@ -30,6 +30,11 @@ author_profile: true
    Distributionally Robust Feature Selection.    
     **<font color="#1A5276">NeurIPS-25</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2508.06635).
 
+*   Bryan Wilder, Angela Zhou.  
+   Fostering the Ecosystem of AI for Social Impact Requires Expanding and
+  Strengthening Evaluation Standards.    
+    **<font color="#1A5276">NeurIPS-25</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2510.18238).
+
 *   Kevin Ren, Santiago Cortes-Gomez, Carlos Miguel Patiño, Ananya Joshi, Ruiqi Lyu, Jingjing Tang, Alistair Turcan, Khurram Yamin, Steven Wu, Bryan Wilder.  
     Predicting Language Models' Success at Zero-Shot Probabilistic Prediction.    
     _Findings of EMNLP 2025._ [[arXiv]](https://arxiv.org/abs/2509.15356v1).
