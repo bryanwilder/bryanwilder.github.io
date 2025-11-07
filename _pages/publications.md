@@ -79,7 +79,7 @@ author_profile: true
     
 *   Yewon Byun, Sanket Vaibhav Mehta, Saurabh Garg, Michael Oberst, Emma Strubell, Bryan Wilder, Zachary Lipton.  
     Expert Routing with Synthetic Data for Domain Incremental Learning.    
-    **<font color="#1A5276">TMLR</font>**. _Transactions on Machine Learning Research_. 2025. [[Link]](https://openreview.net/pdf?id=QdQVfdXnsG)
+    **<font color="#1A5276">TMLR</font>**. _Transactions on Machine Learning Research_. **Journal to Conference Certification**. 2025. [[Link]](https://openreview.net/pdf?id=QdQVfdXnsG)
 
 *   Tamar Krishnamurti, Samantha Rodriguez, Bryan Wilder, Priya Gopalan, Hyagriv N. Simhan.  
     Predicting first time depression onset in pregnancy: applying machine learning methods to patient-reported data.    
