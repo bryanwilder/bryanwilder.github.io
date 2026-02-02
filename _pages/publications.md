@@ -9,18 +9,29 @@ author_profile: true
     Bridging Prediction and Intervention Problems in Social Systems.    
     [[Preprint]](https://arxiv.org/abs/2507.05216).
 
-
-*   Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder.  
-    Failure Modes of LLMs for Causal Reasoning on Narratives.    
-    [[Preprint]](http://arxiv.org/abs/2410.23884).
-    
 *   Ruiqi Lyu, Alistair Turcan, Bryan Wilder.  
     Explaining Concept Shift with Interpretable Feature Attribution.    
     [[Preprint]](http://arxiv.org/abs/2505.20634).
 
-*   Khurram Yamin, Vibhhu Sharma, Ed Kennedy, Bryan Wilder.  
+*   Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder.  
+    LLMs Struggle to Balance Reasoning and World Knowledge in Causal Narrative Understanding.    
+     **<font color="#1A5276">ICLR-26</font>**. _International Conference on Learning Representations_. 2026. [[arXiv]](http://arxiv.org/abs/2410.23884).
+
+*   Jianyu Xu, Vidhi Jain, Bryan Wilder, Aarti Singh.  
+    Online Decision Making with Generative Action Sets.    
+     **<font color="#1A5276">ICLR-26</font>**. _International Conference on Learning Representations_. 2026. [[arXiv]](https://arxiv.org/abs/2509.25777).
+
+*   Kanad Pardeshi, Bryan Wilder, Aarti Singh.  
+    OEUVRE: OnlinE Unbiased Variance-Reduced loss Estimation.    
+     **<font color="#1A5276">AISTATS-26</font>**. _International Conference on Artificial Intelligence and Statistics_. 2026. [[arXiv]](https://arxiv.org/abs/2510.22744). **Spotlight**
+
+*   Ananya Joshi, Nolan Gormley, Richa Gadgil, Catalina Vajiac, Tina Townes, Ronald Rosenfeld, Bryan Wilder.  
+    Reducing Alert Fatigue Through AI Ranking: A Deployed Public Health Data Monitoring System.    
+     **<font color="#1A5276">IAAI-26</font>**. _Conference on Innovative Applications of Artificial Intelligence_. 2026. 
+
+*   Khurram Yamin, Vibhhu Sharma, Edward Kennedy, Bryan Wilder.  
     Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
-    [[Preprint]](https://arxiv.org/abs/2410.15655).
+    **<font color="#1A5276">TMLR</font>**. _Transactions on Machine Learning Research_. 2026. [[Link]](https://openreview.net/forum?id=05AIXzU4HV).
     
 *   Yewon Byun, Shantanu Gupta, Zachary C. Lipton, Rachel Leah Childers, Bryan Wilder.  
    Valid Inference with Imperfect Synthetic Data.    
