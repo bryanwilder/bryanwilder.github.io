@@ -27,7 +27,7 @@ author_profile: true
 
 *   Ananya Joshi, Nolan Gormley, Richa Gadgil, Catalina Vajiac, Tina Townes, Ronald Rosenfeld, Bryan Wilder.  
     Reducing Alert Fatigue Through AI Ranking: A Deployed Public Health Data Monitoring System.    
-     **<font color="#1A5276">IAAI-26</font>**. _Conference on Innovative Applications of Artificial Intelligence_. 2026. **Deployed Application Award for IAAA 2026**
+     **<font color="#1A5276">IAAI-26</font>**. _Conference on Innovative Applications of Artificial Intelligence_. 2026. 
 
 *   Khurram Yamin, Vibhhu Sharma, Edward Kennedy, Bryan Wilder.  
     Accounting for Missing Covariates in Heterogeneous Treatment Estimation.    
