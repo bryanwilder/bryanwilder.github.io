@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+*   Khurram Yamin, Jingjing Tang, Santiago Cortes-Gomez, Amit Sharma, Eric Horvitz, Bryan Wilder.  
+    Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making.    
+    [[Preprint]](https://arxiv.org/abs/2602.06286).
+
 *   Lydia T. Liu, Inioluwa Deborah Raji, Angela Zhou, Luke Guerdan, Jessica Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Hammaad Adam, Amanda Coston, Ben Laufer, Ezinne Nwankwo, Michael Zanger-Tishler, Eli Ben-Michael, Solon Barocas, Avi Feller, Marissa Gerchick, Talia Gillis, Shion Guha, Daniel Ho, Lily Hu, Kosuke Imai, Sayash Kapoor, Joshua Loftus, Razieh Nabi, Arvind Narayanan, Ben Recht, Juan Carlos Perdomo, Matthew Salganik, Mark Sendak, Alexander Tolbert, Berk Ustun, Suresh Venkatasubramanian, Angelina Wang, Ashia Wilson.  
     Bridging Prediction and Intervention Problems in Social Systems.    
     [[Preprint]](https://arxiv.org/abs/2507.05216).
