@@ -5,21 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
+*   Khurram Yamin, Jingjing Tang, Eric Horvitz, Bryan Wilder.  
+    Can Revealed Preferences Clarify LLM Alignment and Steering?    
+    [[Preprint]](https://arxiv.org/html/2605.08556v1).
+
 *   Khurram Yamin, Jingjing Tang, Santiago Cortes-Gomez, Amit Sharma, Eric Horvitz, Bryan Wilder.  
-    Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making.    
+    When Agents Say One Thing and Do Another: Validating Elicited Beliefs from LLMs.    
     [[Preprint]](https://arxiv.org/abs/2602.06286).
 
 *   Smriti Jha, Vidhi Jain, Jianyu Xu, Grace Liu, Sowmya Ramesh, Jitender Nagpal, Gretchen Chapman, Benjamin Bellows, Siddhartha Goyal, Aarti Singh, Bryan Wilder.  
     Developing and evaluating a chatbot to support maternal health care.    
     [[Preprint]](https://arxiv.org/abs/2603.13168).
 
+*   Santiago Cortes-Gomez, Mateo Dulce Rubio, Carlos Patino, Bryan Wilder.  
+    The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty.    
+    [[Preprint]](https://arxiv.org/abs/2605.07979).
+
+*   Ruiqi Lyu, Alistair Turcan, Bryan Wilder.  
+    SpatialEpiBench: Benchmarking Spatial Information and Epidemic Priors in Forecasting.    
+    [[Preprint]](https://arxiv.org/abs/2605.06530).
+
+*   Ruiqi Lyu, Alistair Turcan, Bryan Wilder.  
+    Combining digital data streams and epidemic networks for real time outbreak detection.    
+    [[Preprint]](https://arxiv.org/abs/2511.07163).
+
+*   Ruiqi Lyu, Alistair Turcan, Martin Jinye Zhang, Bryan Wilder.  
+    Improving constraint-based discovery with robust propagation and reliable LLM priors.    
+    [[Preprint]](https://arxiv.org/abs/2509.23570).
+
 *   Lydia T. Liu, Inioluwa Deborah Raji, Angela Zhou, Luke Guerdan, Jessica Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Hammaad Adam, Amanda Coston, Ben Laufer, Ezinne Nwankwo, Michael Zanger-Tishler, Eli Ben-Michael, Solon Barocas, Avi Feller, Marissa Gerchick, Talia Gillis, Shion Guha, Daniel Ho, Lily Hu, Kosuke Imai, Sayash Kapoor, Joshua Loftus, Razieh Nabi, Arvind Narayanan, Ben Recht, Juan Carlos Perdomo, Matthew Salganik, Mark Sendak, Alexander Tolbert, Berk Ustun, Suresh Venkatasubramanian, Angelina Wang, Ashia Wilson.  
     Bridging Prediction and Intervention Problems in Social Systems.    
     [[Preprint]](https://arxiv.org/abs/2507.05216).
 
+*   Yewon Byun, Bryan Wilder.  
+    Robust Human-AI Complementarity Under Uncertainty.    
+     **<font color="#1A5276">ICML-26</font>**. _International Conference on Machine Learning_. 2026. 
+
 *   Ruiqi Lyu, Alistair Turcan, Bryan Wilder.  
     Explaining Concept Shift with Interpretable Feature Attribution.    
-    [[Preprint]](http://arxiv.org/abs/2505.20634).
+     **<font color="#1A5276">ICML-26</font>**. _International Conference on Machine Learning_. 2026. [[arXiv]](http://arxiv.org/abs/2505.20634).
 
 *   Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder.  
     LLMs Struggle to Balance Reasoning and World Knowledge in Causal Narrative Understanding.    
