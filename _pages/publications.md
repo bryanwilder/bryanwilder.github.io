@@ -16,6 +16,10 @@ author_profile: true
 *   Smriti Jha, Vidhi Jain, Jianyu Xu, Grace Liu, Sowmya Ramesh, Jitender Nagpal, Gretchen Chapman, Benjamin Bellows, Siddhartha Goyal, Aarti Singh, Bryan Wilder.  
     Developing and evaluating a chatbot to support maternal health care.    
     [[Preprint]](https://arxiv.org/abs/2603.13168).
+    
+*   JungHo Lee, Johnna Sundberg, Pim Welle, Bryan Wilder.  
+    Learning Treatment Effects during Resource Allocation via Priority-Queue Randomization.    
+    [[Preprint]](https://arxiv.org/abs/2605.25169).
 
 *   Santiago Cortes-Gomez, Mateo Dulce Rubio, Carlos Patino, Bryan Wilder.  
     The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty.    
