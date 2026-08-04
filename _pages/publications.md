@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*   Khurram Yamin, Christopher Kelly, Bryan Wilder, Eric Horvitz.  
+    High-Stakes Decisions with Language Models: Insights from Emergency Triage    
+    [[Preprint]](https://arxiv.org/abs/2608.01361).
 
 *   Khurram Yamin, Jingjing Tang, Eric Horvitz, Bryan Wilder.  
     Can Revealed Preferences Clarify LLM Alignment and Steering?    
