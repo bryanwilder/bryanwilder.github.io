@@ -10,6 +10,8 @@ redirect_from:
 
 I am an Assistant Professor in the Machine Learning Department at Carnegie Mellon University. I work on safe and trustworthy AI. Most of my research falls into two categories. First, I develop scientific foundations for AI systems that support legible, valid, and robust decision making. Second, I conduct applied work with partners in social, policy, and healthcare settings to deploy AI and rigorously evaluate its impacts. At CMU, I direct the Lab for AI and Social Impact. Our research has been funded by Schmidt Sciences, NSF, NIH, CDC, the Engler Family Foundation, and ARO. I completed my PhD in Computer Science at Harvard University. Before joining CMU, I was a postdoctoral Schmidt Science Fellow at the Harvard School of Public Health. I serve as Chair of the Board of Directors for [EAAMO](https://eaamo.org/) and the associated [ACM EAAMO conference](https://conference.eaamo.org/).
 
+I sometimes [blog](https://bryanwilder.substack.com/p/do-llms-have-beliefs).
+
 # News
 *	July 2025: Paper on ["Learning treatment effects while treating those in need"](https://arxiv.org/abs/2407.07596) received the exemplary paper award for the AI track at EC 2025.
 *	February 2024: My dissertation received the honorable mention for the [AAAI/ACM SIGAI Best Dissertation Award](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/).
