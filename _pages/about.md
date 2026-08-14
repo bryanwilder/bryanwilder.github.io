@@ -13,6 +13,7 @@ I am an Assistant Professor in the Machine Learning Department at Carnegie Mello
 I sometimes [blog](https://bryanwilder.substack.com/).
 
 # News
+*	August 2026: Co-chairing the [AAAI 2027 AI for Social Impact Track](https://aaai.org/conference/aaai/aaai-27/aisi-call/).
 *	July 2025: Paper on ["Learning treatment effects while treating those in need"](https://arxiv.org/abs/2407.07596) received the exemplary paper award for the AI track at EC 2025.
 *	February 2024: My dissertation received the honorable mention for the [AAAI/ACM SIGAI Best Dissertation Award](https://aaai.org/about-aaai/aaai-awards/aaai-acm-sigai-doctoral-dissertation-award/).
 *	September 2023: I will serve as co-PI of a [CDC Center for Innovation](https://www.cmu.edu/news/stories/archives/2023/september/cdc-selects-delphi-research-group-at-cmu-as-center-for-innovation-in-outbreak-analytics-and-disease) at CMU.
