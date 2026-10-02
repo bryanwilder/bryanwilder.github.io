@@ -8,13 +8,14 @@ author_profile: true
 
 PhD Students
 
-* Ye Won (Emily) Byun (co-advised with Zachary Lipton)
-* Santiago Cortes Gomez
-* Ruiqi Lyu (co-advised with Roni Rosenfeld)
+* [Ye Won (Emily) Byun](https://yewonbyun.github.io/) (co-advised with Zachary Lipton)
+* [Santiago Cortes Gomez](https://secg5.github.io/)
+* [Ruiqi Lyu](https://rachel-lyu.github.io/) (co-advised with Roni Rosenfeld)
 * Khurram Yamin (co-advised with Edward Kennedy)
-* Maitreyi Swaroop
-* Kanad Pardeshi (co-advised with Aarti Singh)
+* [Maitreyi Swaroop](https://maitreyiswaroop.github.io/)
+* [Kanad Pardeshi](https://kanpard005.github.io/) (co-advised with Aarti Singh)
 * Jingjing Tang (co-advised with Roni Rosenfeld)
+* Aishik Nagar
 
 Postdoc
 * Jianyu Xu (co-supervised with Aarti Singh)
