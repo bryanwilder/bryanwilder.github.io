@@ -37,6 +37,10 @@ author_profile: true
     Combining digital data streams and epidemic networks for real time outbreak detection.    
     [[Preprint]](https://arxiv.org/abs/2511.07163).
 
+*   Lydia T. Liu, Inioluwa Deborah Raji, Angela Zhou, Luke Guerdan, Jessica Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Hammaad Adam, Amanda Coston, Ben Laufer, Ezinne Nwankwo, Michael Zanger-Tishler, Eli Ben-Michael, Solon Barocas, Avi Feller, Marissa Gerchick, Talia Gillis, Shion Guha, Daniel Ho, Lily Hu, Kosuke Imai, Sayash Kapoor, Joshua Loftus, Razieh Nabi, Arvind Narayanan, Ben Recht, Juan Carlos Perdomo, Matthew Salganik, Mark Sendak, Alexander Tolbert, Berk Ustun, Suresh Venkatasubramanian, Angelina Wang, Ashia Wilson.  
+    Bridging Prediction and Intervention Problems in Social Systems.    
+    [[Preprint]](https://arxiv.org/abs/2507.05216).
+
 *   Santiago Cortes-Gomez, Mateo Dulce Rubio, Carlos Patino, Bryan Wilder.  
     The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty.    
     **<font color="#1A5276">NeurIPS-26</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2605.07979).
@@ -44,14 +48,10 @@ author_profile: true
 *   Ruiqi Lyu, Alistair Turcan, Bryan Wilder.  
     SpatialEpiBench: Benchmarking Spatial Information and Epidemic Priors in Forecasting.    
     **<font color="#1A5276">NeurIPS-26</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2605.06530).
-
+    
 *   Ruiqi Lyu, Alistair Turcan, Martin Jinye Zhang, Bryan Wilder.  
     Improving constraint-based discovery with robust propagation and reliable LLM priors.    
     **<font color="#1A5276">NeurIPS-26</font>**. _Advances in Neural Information Processing Systems_. [[arXiv]](https://arxiv.org/abs/2509.23570).
-
-*   Lydia T. Liu, Inioluwa Deborah Raji, Angela Zhou, Luke Guerdan, Jessica Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Hammaad Adam, Amanda Coston, Ben Laufer, Ezinne Nwankwo, Michael Zanger-Tishler, Eli Ben-Michael, Solon Barocas, Avi Feller, Marissa Gerchick, Talia Gillis, Shion Guha, Daniel Ho, Lily Hu, Kosuke Imai, Sayash Kapoor, Joshua Loftus, Razieh Nabi, Arvind Narayanan, Ben Recht, Juan Carlos Perdomo, Matthew Salganik, Mark Sendak, Alexander Tolbert, Berk Ustun, Suresh Venkatasubramanian, Angelina Wang, Ashia Wilson.  
-    Bridging Prediction and Intervention Problems in Social Systems.    
-    [[Preprint]](https://arxiv.org/abs/2507.05216).
 
 *   Yewon Byun, Bryan Wilder.  
     Robust Human-AI Complementarity Under Uncertainty.    
