@@ -7,7 +7,7 @@ author_profile: true
 
 *   Alex Smolin, Bryan Wilder.  
     Beliefs and Behavior in Language Models.    
-    [[Preprint]](https://arxiv.org/abs/2609.07943).
+    [[Preprint]](https://arxiv.org/abs/2609.07943). [[Code]](https://github.com/bwilder0/llm_beliefs_replication)
 
 *   Khurram Yamin, Christopher Kelly, Bryan Wilder, Eric Horvitz.  
     High-Stakes Decisions with Language Models: Insights from Emergency Triage    
