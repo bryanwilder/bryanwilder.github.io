@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+*   Andrew Perrault, Bryan Wilder.  
+    Identity, Incentives, and Cooperative Behavior for AI: Reverse-Engineering Multiagent Cooperation.    
+    [[Preprint]](https://arxiv.org/abs/2610.19188). 
+
 *   Alex Smolin, Bryan Wilder.  
     Beliefs and Behavior in Language Models.    
     [[Preprint]](https://arxiv.org/abs/2609.07943). [[Code]](https://github.com/bwilder0/llm_beliefs_replication)
